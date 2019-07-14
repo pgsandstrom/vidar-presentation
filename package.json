@@ -1,0 +1,82 @@
+{
+  "name": "vidar-presentation",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "3.9.3",
+    "@material-ui/icons": "3.0.2",
+    "@material-ui/lab": "3.0.0-alpha.30",
+    "@types/lodash": "4.14.123",
+    "@types/node": "12.0.2",
+    "@types/react": "16.8.17",
+    "@types/react-dom": "16.8.4",
+    "@types/styled-components": "4.0.3",
+    "@types/uuid": "^3.4.4",
+    "cross-env": "5.2.0",
+    "lodash": "4.17.11",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.0",
+    "react-transition-group": "2.6.1",
+    "styled-components": "4.1.0",
+    "typescript": "3.3.3"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.11",
+    "@typescript-eslint/eslint-plugin": "1.6.0",
+    "@typescript-eslint/parser": "1.6.0",
+    "eslint": "5.16.0",
+    "eslint-plugin-react": "7.12.4",
+    "http-proxy-middleware": "0.19.1",
+    "husky": "v2.3.0",
+    "lint-staged": "8.1.4",
+    "prettier": "1.17.1",
+    "tslint": "5.12.1",
+    "tslint-config-prettier": "1.18.0",
+    "tslint-react": "3.6.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run pre-commit",
+      "pre-push": "npm run pre-push"
+    }
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build && node ./postscript",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "format": "prettier --write \"src/**/*.{json,md,ts,tsx,css,scss}\"",
+    "lint": "npm run lint:js && npm run lint:ts",
+    "lint:js": "node ./node_modules/eslint/bin/eslint.js --ext .ts --ext .tsx --fix src",
+    "lint:ts": "tslint --fix src/**/*.ts{,x}",
+    "pre-commit": "lint-staged",
+    "pre-push": "cross-env CI=true npm run test"
+  },
+  "lint-staged": {
+    "*.{json,md,ts,tsx,css,scss}": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.{ts,tsx}": [
+      "node ./node_modules/eslint/bin/eslint.js --ext .ts --ext .tsx --fix",
+      "tslint --fix",
+      "git add"
+    ]
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
