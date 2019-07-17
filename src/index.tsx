@@ -9,6 +9,7 @@ import * as serviceWorker from './serviceWorker'
 import './global.css'
 
 import { createMuiTheme, MuiThemeProvider } from '@material-ui/core/styles'
+import { BrowserRouter as Router } from 'react-router-dom'
 import App from './App'
 
 const theme = createMuiTheme({
@@ -38,12 +39,14 @@ const StyledDiv = styled.div`
 `
 
 const Everything = () => (
-  <StyledDiv>
-    <CssBaseline />
-    <MuiThemeProvider theme={theme}>
-      <App />
-    </MuiThemeProvider>
-  </StyledDiv>
+  <Router>
+    <StyledDiv>
+      <CssBaseline />
+      <MuiThemeProvider theme={theme}>
+        <App />
+      </MuiThemeProvider>
+    </StyledDiv>
+  </Router>
 )
 
 ReactDOM.render(<Everything />, document.getElementById('root') as HTMLElement)

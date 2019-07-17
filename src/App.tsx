@@ -1,23 +1,33 @@
+import { Paper } from '@material-ui/core'
 import React from 'react'
+import { Route, Switch } from 'react-router-dom'
 import styled from 'styled-components'
+import FrontPage from './FrontPage'
+import ImageShower from './ImageShower'
 
 const StyledDiv = styled.div`
   height: 100%;
   background: gray;
   padding: 20px 0;
 
-  main {
+  .main {
     background: white;
-    height: 800px;
     width: 1680px;
     margin: 0 auto;
+    padding: 20px;
   }
 `
 
 export default () => {
   return (
     <StyledDiv>
-      <main>hejsan</main>
+      <Paper className="main">
+        <Switch>
+          <Route path="/" component={FrontPage} exact={true} />
+          <Route path="/images" component={ImageShower} exact={true} />
+          <Route path="/images/:page" component={ImageShower} />
+        </Switch>
+      </Paper>
     </StyledDiv>
   )
 }
