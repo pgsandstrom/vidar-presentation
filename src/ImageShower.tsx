@@ -19,14 +19,17 @@ const StyledDiv = styled.div`
   }
 `
 
+const getImageUrl = (page: number) => {
+  // return `/img/tiff/Komplett TIFF - redigerad_Sida_${pad(page)}.tiff`
+  return `/img/jpg/Komplett - redigerad_Sida_${pad(page)}.jpg`
+}
+
 const pad = (n: number) => (n > 9 ? `${n}` : `0${n}`)
 
 export type Props = {} & RouteComponentProps<{ page?: string }>
 
 export default (props: Props) => {
   const page = props.match.params.page !== undefined ? Number(props.match.params.page) : 1
-
-  const imageUrl = `/img/Komplett TIFF - redigerad_Sida_${pad(page)}.tiff`
 
   const gotPrevPage = page > 1
   const gotNextPage = page < 88
@@ -49,7 +52,7 @@ export default (props: Props) => {
         </div>
       </div>
       <div className="body">
-        <img src={imageUrl} alt="boksida" />
+        <img src={getImageUrl(page)} alt="boksida" />
       </div>
     </StyledDiv>
   )
