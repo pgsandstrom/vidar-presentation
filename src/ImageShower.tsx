@@ -1,5 +1,6 @@
 import React from 'react'
 import { RouteComponentProps } from 'react-router'
+import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 
 const StyledDiv = styled.div`
@@ -37,18 +38,18 @@ export default (props: Props) => {
   return (
     <StyledDiv>
       <div className="header">
-        <div style={{ width: '200px' }}>
-          <a href="/">Huvudsida</a>
-        </div>
+        {/*<div style={{ width: '200px' }}>*/}
+        {/*  <Link to="/">Huvudsida</Link>*/}
+        {/*</div>*/}
         <div style={{ width: '200px' }}>
           {gotPrevPage && (
-            <a href={`/images/${page - 1}`} style={{ opacity: gotPrevPage ? 1 : 0 }}>
+            <Link to={`/images/${page - 1}`} style={{ opacity: gotPrevPage ? 1 : 0 }}>
               Tidigare sida
-            </a>
+            </Link>
           )}
         </div>
         <div style={{ width: '200px' }}>
-          {gotNextPage && <a href={`/images/${page + 1}`}>Nästa sida</a>}
+          {gotNextPage && <Link to={`/images/${page + 1}`}>Nästa sida</Link>}
         </div>
       </div>
       <div className="body">

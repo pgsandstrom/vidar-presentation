@@ -13,19 +13,16 @@ import { BrowserRouter as Router } from 'react-router-dom'
 import App from './App'
 
 const theme = createMuiTheme({
-  typography: {
-    useNextVariants: true,
-  },
   palette: {
     primary: {
       // light: will be calculated from palette.primary.main,
-      main: '#4849e9',
+      main: '#ffffff',
       // dark: will be calculated from palette.primary.main,
       // contrastText: will be calculated to contrast with palette.primary.main
     },
     secondary: {
       // light: '#0066ff',
-      main: '#e94849',
+      main: '#000000',
       // dark: will be calculated from palette.secondary.main,
       // contrastText: '#ffcc00',
     },
