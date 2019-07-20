@@ -12,10 +12,11 @@ import ImageShower from './ImageShower'
 
 const StyledDiv = styled.div`
   height: 100%;
-  //background: gray;
 
   .main-paper {
     background: white;
+    //background-image: url(/img/bakgrund2.jpg);
+    //background-size: cover;
     width: 1280px;
     margin: 20px auto;
     padding: 40px;
