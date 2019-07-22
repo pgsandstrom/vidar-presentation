@@ -31,6 +31,11 @@ export default () => {
         Detta verk skyddas enligt lagen om upphovsrätt (URL 1960:729). Boken återges här i
         digitaliserad form med tillstånd från Gustav Langenfelts barnbarn.
       </Typography>
+
+      <img
+        src="/img/bakgrund1.jpg"
+        style={{ display: 'block', margin: '0 auto', paddingTop: '20px' }}
+      />
     </StyledDiv>
   )
 }

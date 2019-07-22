@@ -1,0 +1,3068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Namn och öknamn på politiska partier och personer i Sverige</title>
+            <author>
+               <forename>Gösta</forename>
+               <surname>Langenfelt</surname>
+               <affiliation>Studentföreningen Verdandis</affiliation>
+            </author>
+            <respStmt>
+               <resp>Encoded to TEI</resp>
+               <name>Vidar Kjerstadius</name>
+            </respStmt>
+            <editor>
+               <name>Carl WIman</name>
+               <name>Johan Götlind</name>
+               <name>Nils Ålenius</name>
+               <name>Arne Björnberg</name>
+               <name>Erland v. Hofsten</name>
+               <name>Nils Moosberg</name>
+               <name>Thorsten Rhenström</name>
+               <name>Lennart Hartmann</name>
+               <name>Carl Cederblad</name>
+            </editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Studentföreningen Verdandis småskrifter n:r 373</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Högskolan i Borås</publisher>
+            <address>
+               <addrLine>Allégatan 1, 503 32</addrLine>
+               <settlement>Borås</settlement>
+               <country>Sweden</country>
+            </address>
+            <authority>Vidar Kjerstadius</authority>
+         </publicationStmt>
+         <notesStmt>
+            <note>Encoded to TEI for a digitization project</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <publisher>Albert Bonniers förlag</publisher>
+                     <pubPlace>Stockholm</pubPlace>
+                     <date>1935</date>
+                     <biblScope unit="page" n="77">77 pages</biblScope>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <projectDesc>
+           <p>TEI encoding for digitization project of analogue publication to digital format.
+              This TEI encoding has the main purpose of clarifying how the various parts of
+              the text relate to each other, rather than markin uo all the nuances of the original text.
+              Therefore the the only markups used are those for Paragraphs, Verse lines, Quotes (presented
+              as separate paragraphs) and Fotnotes.</p>
+        </projectDesc>
+     </encodingDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <p>STUDENTFÖRENINGEN VERDANDIS SMÅSKRIFTER N:R 373.</p>
+         </div>
+         <div>
+            <head>NAMN OCH ÖKNAMN PÅ POLITISKA PARTIER OCH PERSONER I SVERIGE</head>
+            <p>AV GÖSTA LANGENFELT</p>
+            <p>STOCKHOLM ALBERT BONNIERS FÖRLAG</p><pb n="1"/>
+         </div>
+            <div>
+               <head>INNEHÅLL</head>
+               <p>
+                  Partiväsendet... 4<lb/>
+                  Tidiga partinamn... 7<lb/>
+                  Från frihetstiden till representationsreformen... 10<lb/>
+                  Från 1867 till 1917... 17<lb/>
+                  Från 1917 till 1935... 35<lb/>
+                  öknamn på politiska personligheter... 48<lb/>
+                  Litteratur... 69<lb/>
+                  Namnregister... 70<lb/>
+               </p>
+               <p>STOCKHOLM ALB. BONNIERS BOKTRYCKERI 1935</p><pb n="2"/>
+            </div>
+         <div>
+            <p><l>Lät Hatt och Mössa dras, lät<lb/>
+               twedräkts-åskor knalla.<lb/>
+               En ek, som då och då en liten<lb/>
+               skakning har,<lb/>
+               I jorden bättre fäste tar.<lb/>
+               När Rom ej trätte mer, begynte<lb/>
+               det at falla,<lb/>
+               Och Ängland når sin högd mitt<lb/>
+               under split och kif,<lb/>
+               Parti är fria staters lif.<lb/></l></p>
+            <signed>Jacob Wallenberg <date>1769</date>.</signed>
+         </div>
+         <div>   
+            <p>Denna Verdandiskrift avser att ge en kåserande
+               framställning av de olika namn och öknamn, som
+               under gångna tider intill nu givits åt svenska politiska
+               partier, kotterier och personligheter. Samlingen,
+               som av naturliga skäl ej kan göra anspråk på att
+               vara komplett, men som dock är tämligen utförlig,
+               publiceras detta år som ett bidrag i hyllningen till
+               den svenska riksdagens femhundraårsjubileum. För
+               överskådlighetens skull har partinamnsmaterialet,
+               jämte en .allmän inledning, fördelats på perioder:
+               I omfattande tiden fram till representationsreformen
+               1867, II omfattande tiden till 1917-18: krigs och
+               revolutionsåren i Europa, och III från dessa år
+               till nutiden. De politiska öknamnen på personer bilda
+               ett särskilt, odelat kapitel.</p><pb n="3"/>
+         </div>
+         <div>
+            <head>Partiväsendet.</head>
+            <p>Samme författare, från vilken vi tagit skriftens
+               inledande motto, skriver på annat ställe 1770: "gnabb
+               är fria staters liv". Med "fri" avses då ett demokratiskt
+               tillstånd, i vilket riksstyrelsen principiellt utses
+               av folket i val. En svensk skriftställare har emellertid
+               helt nyligen framhållit, att partiväsendet är av
+               äldre datum än demokratien.</p>
+            <p><quote>"Så länge Adam och Eva voro ensamma med varandra
+               och de oskäliga djuren i lustgården Eden hör man icke
+               talas om något partiväsen. Men när de fått två söner var
+               det genast färdigt. Det blev närmast vad socialisterna
+               kalla en klasskamp, ty Kain var en åkerman och Abel en
+               fåraherde. Slutet blev, som bekant, att Kain slog Abel
+               ihjäl. Från den tiden har det alltid funnits partier och
+               partistrider. Lusten till fraktionsbildning tycks vara lika
+               ursprunglig hos människorna som tendensen till samhällsliv.
+               Att följa partigrupperingarna genom århundradena är
+               onödigt. Man har endast att gripa i högen: fariseer och
+               saduceer, homousianer och homoiusianer, patricier och
+               plebejer, guelfer och ghibelliner, girondister och jakobiner,
+               whigs och tories, bagler och birkebeinare, hattar och
+               mössor, lantmannapartister och intelligensare, höger och
+               vänster, socialdemokrater och borgerliga, bolsjeviker och
+               mensjeviker, kommunistiska majoritetare och kommunistiska
+               minoritetare, Kalle Kilbom och 'fenomenet'
+               Persson."</quote></p>
+            <p>För närvarande göra diktatorsländernas härskare
+               (och även många utanför dessa) gällande, att de
+               demokratiska parlamenten, bl. a. genom partisplittrmgen,
+               ej längre äro arbetsföra, vilket skapat parla-</p><pb n="4"/>
+         </div>
+         <div>
+            <p>mentsleda. Utslag av denna är i svensk litteratur
+               Olof Dalins bekanta epigram från frihetstiden:·</p>
+            <p><l>Förnuft med Dumhet kom i strid,<lb/>
+               och Sanning kom att mäkla frid.<lb/>
+               Men i förtreten<lb/>
+               uppväckte Dumhet split och hat,<lb/>
+               och saken vann dess advokat,<lb/>
+               - pluraliteten!</l></p>
+            <p>Kritiken av folkrepresentanterna under denna tid
+               genomlyser även några ord i "Galejan" av samme
+               Jacob Wallenberg, som tycks ha varit en politiskt
+               obeslutsam herre: "Se huru lätt jag sadlar om! Man
+               kunde ta mig för riksdagsman."</p>
+            <p>Efter Gustav III : s statskupp skriver Bellman i
+               dikten om en fingerad Augustiorden:</p>
+            <p><quote>Man minns den forna tid, då riksdagsklubban dundra
+               och vän bortsålde vän, en son sin far besvor . . .
+               Ej annat föremå'l hans nit nu ville njuta
+               än vid ett riksdagsval själv mutad bli och muta.</quote></p>
+            <p>I Lycksalighetens Ö (IV) satiriserar också Atterbom
+               över demokratien: fullmåttkroppsprincipen.</p>
+            <p>Oviljan mot "den parlamentariska snigelvägen"
+               (H. Bergegren 1891) har hållit i sig intill våra dagar,
+               då man talar om levebrödspolitiker. Redan innan
+               riksdagen antagit senaste valrätt och gjort ett "djärvt
+               grepp i det kommunala fyrkväldets ugglebo" (Branting
+               1907), existerade begreppet. Så skriver Spectator
+               1899:</p>
+            <p><quote>"Enligt den gängse konservativa chablonen skall det ju
+               vara i storstäderna och företrädesvis bland skriftställare,
+               tidningsmän och advokater m. m. (som man har att söka</quote></p><pb n="5"/>
+         </div>
+         <div>
+            <p><quote>'yrkespolitikerna')" och i motsats mot dessa ställas då "våra
+               hederliga lands representanter".</quote></p>
+            <p>Parlamentsledan - som definierats så, att den
+               förefinnes hos dem, som icke få leda parlamentet -
+               har på sistone partimässigt organiserats, bl. a. i kommunister,
+               fascister och nazister, vilka tala om realism,
+               handling och aktion.</p>
+            <p><quote>"Genom det stora världsmörkret ropa röster i öster och
+               söder; vi ha hört dem alla med jämna mellanrum: 'den
+               nya sakligheten', 'den nya livskänslan', 'den nya moralen'
+               och allt vad de stora orden heta"</quote> (Fönstret, 9, 1934).</p>
+            <p>Svaret på denna utveckling lämnades redan för
+               100 år sedan av Grillparzer, då han skrev :</p>
+            <p><quote><foreign xml:lang="de">Der Weg der neuen Bildung geht<lb/>
+               von Humanität<lb/>
+               durch Nationalität<lb/>
+               zur Bestialität.</foreign></quote></p>
+            <p>Men hur nationernas politiska liv och styrelseformer
+               skifta, kunna vi med skalderna vara förvissade
+               om, att friheten icke dör och att demokratien är ett
+               omistligt värde för alla. Det har biskop Tomas i sin
+               frihetssång och Heidenstam i sin kända medborgarsång
+               intygat och så sent som 1934 finner man samma
+               trosvissa uppfattning härom hos Nils Svanberg:</p>
+            <p><l>Frihetens eviga sång<lb/>
+               kan ej i evighet dö<lb/>
+               - stiger i djärva språng<lb/>
+               - tynar svag<lb/>
+               - tycks som ett brutet rö,<lb/>
+               är som borta ett tag:<lb/>
+               Kan ej dö.</l></p>
+            <p><l>Frihetens strid mot tvång<lb/>
+               kan aldrig dö,<lb/>
+               tycks oss evinnerligt lång -<lb/>
+               gör det dock skönt<lb/>
+               även för dem som rönt<lb/>
+               motgång och undergång,<lb/>
+               ger dem som ej få leva<lb/>
+               kraft att dö.</l></p><pb n="6"/>
+         </div>
+         <div>
+            <head>Tidiga partinamn.</head>
+            <p>Från forntid och medeltid, t. o. m. efter herredagars
+               och riksmötens införande, finnas inga partinamn
+               eller förvrängningar av sådana antecknade.
+               Vi läsa i vår medeltidshistoria om "unionsvänner"
+               under Kalmarunionens tid, om "danskfiender",
+               o. s. v., men dessa äro skapade av sena tiders historiker.
+               Norsk historia har bevarat två partiöknamn:
+               bagler och birkebeinare, medan svensk hävdaforskning
+               ej antecknat nagot. Undantag skulle kunna
+               vara garpar, en benämning i Sveriges och Finlands
+               köpstäder på tyskar, d. v. s. tyskt borgerskap, som
+               inflyttat<note n="1" place="bottom"></note>. Dock funnos nog nu glömda öknamn på de
+               olika politiska fraktionerna, i synnerhet som medeltiden
+               hade expressiva öknamn på kungarna och mera
+               framstående politiska personligheter: Blot-Sven,
+               Erik den Läspe och Halte, Birger Brosa (den leende),
+               Magnus Ladulås, Mats Kittelbotare, Magnus Smek,
+               Kristoffer Bottenlös Tom Taska<note n="2" place="bottom">, med vilka kan
+                  jämföras forntidens Ottar Vendelkråka, Erik Seger-säll,
+                  Erik Väderhatt, Sigrid Storråda, Bröt-Anund,
+                  Ingjald Illråde, Ivar Vidfamne, Olov Skötkonung,
+                  Margareta Fridkulla. De sista namnen av denna typ
+                  <p><note n="1" place="bottom"> Jutar är en äldre svensk nationalitetsbenämning på
+               danskar; norrbaggar är i Danmark och Sverige ett troligen
+               medeltida öknamn på norrmän (av norvagus, norrman).
+               Finnkoli.t' (-ling) kommer från det av finnar ofta använda
+               kttuleks (= hör du!).</note></p>
+                  <p><note n="2" place="bottom"> Om Albrekt av Mecklenburg heter det i flera medeltida
+               urkunder: "dictum a wlgo grefme Mrechelborgh",
+               "dicti Mechelhorgh", o. s. v. (Brieskorn, U. U. Å. 1912,
+               S. IIO) .</note></p>
+               </note></p><pb n="7"/>
+         </div>
+         <div>
+         <p>äro väl Kristian Tyrann, (den stränge) Bondekonungen
+            (Karl IX) och Gråkappan (Karl XI) <note n="1" place="bottom"></note>.
+            Målande svenska namn på historiska händelser :
+            Håtunaleken, Nyköpings Gästabud (från medeltiden)
+            och Dackefejden, Daljunkaren, Klockupproret,
+            Nääftåget, Klubbekriget, Stora Daldansen, Viborgska
+            Smällen, m. fl., tala för att vanan att öknämna
+            satt i under nyare tiden. Under 1600-talet har man
+            dock antecknat blott följande tillfälliga partibeteckningar
+            i Stockholms kommunala liv år 1664: "konfedererade",
+            "neutralister" och "avfällingar", enligt
+            vad som samma år upplystes i rådet.</p>
+         <p>Under samma århundrade uppdyka i England
+            mycket skarpt betonade partinamn av folklig karaktär:
+            rundhuvuden ( = puritaner, från 1641, efter
+            hårets klippning) ooh kavaljerer (rojalister, anhängare
+            av Karl I); dessutom kallades Cromwells
+            trupper järnsidor<note n="2" place="bottom"></note>. Av samma folkliga natur äro de
+            ännu i engelskt politiskt språkbruk kvarlevande namnen
+            tory ( = nu konservativ) och whig ( = nu liberal)
+            - dock ej som sanktionerade partinamn. Tory
+            härledes från ordet *thoraidhe, = förföljare, hämtat
+            från den dialekt av keltiska språk, gäliska eller
+            iriska, som ännu talas i västra Irland. Det användes</p>
+            <note n="1" place="bottom">1 Den folkkäre Karl XV hette i folkmun "Kalle i Fyrkanten'',
+               ärvt av hans brorson "Gurra i Fyrkanten'.'
+               (=slottet), som även fått heta "Ve'Gustav" eller
+               "Ve'Gurra" (av Gustaf V). Densanimes tennispseudonym,
+               brukad även utanför idrotten, är Mr G.</note>
+            <note n="2" place="bottom">2 Jämför Gustav Il Adolfs finska ryttare, som efter sitt
+               rop hakka pälle (hugg ned!) kallades hallkapelliter, och de
+               radikala pietisterna gråkoltarna från 1730-talet.</note><pb n="8"/>
+         </div>
+         <div>
+            <p>allra först på de laglösa sällar, som opererade i
+               smärre skaror i Irland och som, när ordet först
+               förekommer i engelska, jämställas med "mördare,
+               tjuvar och rövare". År 1689 godkände det Stuarttrogna
+               rojalistpartiet beteckningen som officiell: the
+               Tories.</p>
+            <p>Whig har osäkrare tolkning: än uppges det härstamma
+               från ett skotskt (gäliskt) lystringsord för
+               hästar ( whiggamer), än från ett skotskt ord för sur
+               mjölk (whey) och skulle därför kommit att beteckna
+               fattiga, förtryckta människor, och än från betydelsen
+               "bondlurk". Redan 1648 påklistras skotska presbyterianer
+               öknamnet wliigs och det blev så småningom
+               officiellt för anhängarna av Vilhelm av Oranien
+               och Hanoveranska huset. Gemensamt för båda blev
+               under 1700-talet det . från latinet lånade namnet
+               patriot, som i torymun hade meningen kungatrogen
+               konstitutionalist, medan det i whig-mun avsåg en
+               liberal folkvän. Den senare betydelsen övervägde
+               under 1700-talet, om man får döma av den konservative
+               Dr. Samuel Johnsons användning av ordet, i
+               synnerhet i hans berömda fras från 1775: "Patriotism
+               är skurkens sista tillflykt". I denna radikala
+               betydelse kom patriot över Engelska kanalen och blev
+               framemot och under den stora franska revolutionen
+               termen för en radikal, om folkets välgång mån
+               revolutionär. I denna utpräglade partimening uppträder
+               ordet även i det svenska tidningsnamnet
+               Patrioten (1792-94), med radikala tendenser, utgiven
+               av L. Philipson. Tidigare under det svenska</p><pb n="9"/>
+         </div>
+         <div>
+            <p>I 700-talet bollar man med ordet mellan partierna,
+               och det får än högtidlig, än nedsättande klang. Bellman
+               satiriserar. över patrioter, som voro anhängare
+               av den Kiermanska penningpolitiken .</p>
+            <p><quote>. . . I ränker, sus och dus man gav och tog till bästa
+               och den blev patriot, som tog för sig det mesta.<note n="1" place="bottom"></note></quote></p>
+         </div>
+         <div>
+            <head>Från Frihetstiden till Representations-reformen.</head>
+            <p>Under frihetstiden kunna vi registrera två expressiva
+               partinamn: hattar och mössor, som under riksdagen
+               I 738-39 kom mo i allmännare bruk. Namnet
+               mössor, egentligen nattmössor, gavs åt Arvid Horn
+               och hans anhängare, till följd av deras försiktiga
+               politik, av motståndarna, den Gyllenborg-Höpkenska
+               kretsen. Denna var i förstone en mot Horn, delvis,
+               av personliga skäl, intrigerande frond, vilken sedan
+               växte ut till det s. k. hattpartiet, så kallat som en
+               motsats till mössorna. Dessa öknamn förekomma
+               någon enstaka gång till ooh med i protokollen.</p>
+            <p>I någon mån gjorde väl uttrycket "karl för sin
+               hatt" sitt till, att hattpartiet accepterade binamnet,
+               och till stöd härför kan anföras Odels Sinclairsvisa
+               från 1739: <quote>" (Svea) klär sig som en Karl med Hatt,
+                  Och lider ingen Mössa"</quote> ; och även Bellman syftar</p>
+            <note n="1" place="bottom">Patriot förekommer även under 16oo-talet; jämför
+               Peder Eriksson (Rosenskiöld) 1625: "det iag ingalunda
+               twiflar, att iu alla troohiertade Fäderneslandzens rätte
+               Patrioter och ledamöter, som H. K. M : tz trogne undersåtare
+               görandes warda." Betydelsen är här snarare "landsman",
+               "medborgare" än "kungatrogen".</note><pb n="10"/>
+         </div>
+         <div>
+            <p>väl härpå i en bibelparodi, som skrevs om I 769 års
+               riksdag, då hattarna erövrade makten:</p>
+            <p><l>Kain var ej van att frukta, satt sin hatt uppå och slog,<lb/>
+               Abel på sin mössa lukta, och i mössan han ock dog.</l></p>
+            <p>I en skrift från 1750 heter det, att "numera kallas
+               Holsteinska partiets avkomlingar för Hattar, Hessiska
+               partiets för Mössor".</p>
+            <p>Jacob Wallenberg skriver 1771 i "Galejan" följande
+               om dessa namn:</p>
+            <p><quote>"Mån ej, förmedelst et lykligt giftermål mellan Hatt
+               och Mössa, den så länge saknad~ ätten, Ärlig Svensk,
+               skulle kunna återfödas? Den enes sangviniska ärelystnad
+               tempererad med den andres flegmatiska hushållsbegär, jag
+               menar Hattens hjärta, förenat med Mössans räknehufvud;
+               skulle det ej yngla et lejon, som likt det gamla, kunde förakta
+               närmare hotelser och fjärmare mutor? - Dansa efter
+               en kalmuckisk (=rysk) säck-pipa, är fegt; hoppa takten
+               efter et kukeliku (=franskt), lögeligit."<note n="1" place="bottom"></note></quote></p>
+            <p>"Ärlig Svensk" kom snart nog, som vi veta, men
+               blev ej seglivad: de under 1770--72 förekommande
+               kompositionisterna, en fåfäng sammanslagning av
+               hatt och mössa.</p>
+            <p>Gustav III: s revolution 1772 avskaffade partiväsendet
+               och parlamentarisk demokrati; hatt och mössa
+               hade försvunnit som partinamn och den gleich-geschaltete
+               "Ärlig Svensk" fick avträda. Händelserna
+               i slutet av hans regering visade dock att partiväsendet
+               ånyo uppstod: jag åsyftar Anjalaförbundet, söm</p>
+            <note n="1" place="bottom">Jämför Runius' dikt "30 Februari" 1712: "Ett åhr;
+               thet tolfte sen then Tolfte Carl blef retter/ Dra werjan
+               mot August, mot Fredrich och mot P etter" . . . (Dudaim).</note><pb n="11"/>
+         </div>
+         <div>
+            <p>av några av vår tids finländska historiker göres till
+               bärare av en speciell Finlandstanke inom svenska
+               väldet. Rojalister och patrioter (eller lantmän)
+               från riksdagen 1792 peka också på motsättningen
+               mellan kungatrogna och motståndare. De av franska
+               revolutionen påverkade elementen, som vid 1800-års
+               riksdag nämndes t. o. m. jakobiner, bestodo huvudsakligen
+               av yngre adel.</p>
+            <p>Man brukar kalla ledarna av statskuppen i Stockholm,
+               då Gustav IV Adolf avlägsnades, för "1809
+               års män". Under detta sammelnamn operera åtskilliga
+               grupperingar: Adlersparre-partiet, som intresserade
+               sig mest för tronföljdsfrågan; de konstitutionella
+               eller ministeriella, t. o. m. de liberala, som
+               leddes av friherre Lars Augustin Mannerheim; och
+               Adlercreutzka gruppen, som var mindre pålitlig i
+               tronföl j dsfrågan och bildade högerflygeln. Flera av
+               1809 års män hade ofta sammanträden under ledning
+               av Mannerheim, den s. k. M annerheimska klubben
+               eller Lyktklubben, en mindre exklusiv upplaga
+               av de många adelsklubbar, som tidigare under frihetstiden<note n="1" place="bottom"></note>
+               och allt framgent existerade; de kallades
+               även M annerheimare eller lvl annerheimianer,<note n="2" place="bottom"></note> som
+               Crusenstolpe omväxlande benämner dem. 1809 års
+               män buro även namnen rörelsemän eller framtids-</p>
+            <note n="1" place="bottom">Frihetstidens hovparti brukade ju samlas på källaren
+               Svenska Botten, Pechlins intrigörer på kaffehusen vid
+               Riddarhustorget och i Gamla stan. Jfr Greiffens klubb
+               1809.</note>
+            <note n="2" place="bottom">Jämför Mannerheimister under inbördeskriget i Finland
+               1918 och senare.</note><pb n="12"/>
+         </div>
+         <div>
+            <p>män, med vilket senare kunna jämföras de utländska
+               partinamn progressister och framstegspartier.<note n="1" place="bottom"></note></p>
+            <p>Rojalisterna gå vid denna tid under det vedertagna
+               namnet Gustavianerna, varav framgår, att de
+               voro kungahuset trogna, men öknamn voro "aristokraterna",
+               som nu lånas ur franska revolutionens
+               ordbok, eller skånska partiet, skånska grevarna
+               (eftersom de flesta voro från Skåne), De la Gardies
+               parti, Delagardisterna eller Ruuthianerna, efter
+               skånegrevarna De la Gardie och Ruuth. I "Morianen"
+               heter det, att "Mannerheimianerna hade sig
+               nogsamt bekant, att drottning Charlotta var gustavianska
+               partiets - - - huvud" ; Karl XIII : s
+               gemål Charlotta ivrade för en vasaättling på tronen.
+               Gustaviansk var också den s. k. Maclcanska klubben
+               och partiklubben Jacobs får ( 1809, i nov.), ett öknamn
+               efter greve De la Gardies förnamn.</p>
+            <p>Denna period kännetecknas alltså av en viss fantasitorka,
+               när man jämför de politiska partinamnen
+               med frihetstidens. Om man undantager de roliga beteckningarna
+               skånska grevarna och Jacobs får äro
+               nära nog samtliga andra avledda av personnamn.
+               Det var en nykter tid, med näraliggande uppgifter
+               för ögonen, som gjorde sig gällande. Namnet r809
+               års män - som nu så meningslöst och vandaliserande
+               tillämpas på (års)föreningar av personer med
+               gemensamt födelseår, såsom 1866 års män, 1892 års</p>
+            <note n="1" place="bottom">"Rörelsen" är väl nuförtiden liktydigt med arbetarrörelsen
+               och socialdemokraterna: "han har länge varit med
+               i rörelsen" är ett ofta hört uttryck i dessa kretsar.
+            </note><pb n="13"/>
+         </div>
+         <div>
+            <p>män(!) - har emellertid genom sin historiska klang
+               ett visst affektionsvärde. Några stramt organiserade
+               partier voro aldrig dessa, endast meningsfränder
+               med växlande trohet mot iden.</p>
+            <p>Nlinisteriella och konstitutionella varslade ej om
+               nya vindar, men det gjorde patrioter, jakobiner,
+               aristokrater och liberala. De voro lånade från utlandets
+               politiska kamp. Från Frankrike kommo patrioter,
+               jakobiner<note n="1" place="bottom"></note>, aristokrater och från England liberal,
+               som så sent som 1830-talet kunde formas liberalist.
+               Dessutom tillkommo politiska termer, av vilka många
+               varit öknamn i ursprungslanden, ultras ( 1820-talet),
+               anarkist ( 1812), radikal ( 1820-talet), kamarilla
+               (1830-talet), konservativ (1830-talet), rabulist
+               (1838), obskurant (1835), reaktionär (1848). Redan
+               under Gustav III : s tid förekommo aristokrat och
+               demokrat; jämför den gustavianska pamfletten från
+               1809 mot Mannerheimarna:</p>
+            <p><quote>''Swenska Brigantinen Fädernesilindet seglande under
+               fåväldets , flagg öfver planlöshetens haf till öarna Democratia
+               och Anarchia för någre skeppredares nytta och förmån."</quote></p>
+            <p>Av dessa importord blev endast liberal senare an-</p>
+            <note n="1" place="bottom">Hellquist (se bibliografien) ger jakobin först från omkring
+               1820 och liberal från 1820-talet; jämför Sjövall, Partier
+               och Paskviller å Riddarhuset vid l809-1810 års riksdag,
+               s. 3 och 4. Brusewitz, Representationsreformen vid
+               18o9-IO års riksdag, har påvisat, att i ett anonymt tal
+               (troligen av Jacob Adlerbeth) i konstitutionella (eller
+               ledande) partiets klubb 1809 uttrycket liberala partiet förekom,
+               alltså tre år före förekomsten i Spanien (1812). Jfr.
+               A. Thomson: "Liberal" i Festskrift till Th. Hjelmqvist,
+               1926.</note><pb n="14"/>
+         </div>
+         <div>
+            <p>vänt som allvarligt menat och sanktionerat partinamn,
+               liksom det senare införda ordet socialdemokrat.
+               Intet parti har nämnt sig konservativt i firmanamnet
+               så att säga, även om gruppen de konservativa
+               existerade på 1840-talet. Under samma årtionde
+               hör man först på allvar talas om parlamentarism
+               ( 1840 års riksdag). De Grå, namnet på ett moderatliberalt
+               mellanparti 1848, med finansminister Gripenstedt
+               som främste man, har väl givit anledning till
+               Strindbergs tidningsnamn "Gråkappan" i Röda Rummet?
+               Under denna tid hjälptes de fyra stånden åt att
+               rulla den fyrhjuliga riksvagnen, som ståndsriksdagen
+               kallades.</p>
+            <p>Under de decennier, som började syssla med en
+               representationsreform, fanns en nackstyv opposition
+               mot varje förändring, de s. k. aristokraterna, som
+               fötts på nytt i anseende till namnet, men stodo för
+               helt andra mål än Gustav III: s och 1809 års, utom
+               såtillvida att de voro konservativa på någon särskild
+               punkt, och ehuru ofta "ärke-medelmåttor" (Disraelis.
+               ord) ville de ej vara jaherrar<note n="1" place="bottom"></note> åt folkstämningarna i
+               tiden. Redan 1850-51 utkristalliserade sig inom
+               Riddarhuset ett parti, lett av Lagerbielke, junkrar,
+               som dock ej lånats från Tyskland (i betydelsen storagrarer);
+               redan hos Kellgren (Ljusets fiender) och
+               Anna Maria Lenngren användes junker i förklenande
+               mening vilket visar denna politiska terms ålder,</p>
+            <p>"Aristokraterna" tillhörde ju framför allt det
+               världsliga frälset. Rörande adeln uttalade H. Hamil-</p>
+            <note n="1" place="bottom">Jahcrrar kallades vissa statsråd 1830-1840.</note><pb n="15"/>
+         </div>
+         <div>
+            <p>ton 1856: "Adeln är delad i två fraktioner, af hvilka
+               den gammalmodiga är sig lika, men den nya ... är
+               en brokig sammansättning af liberale, radikale ...
+               och missnöjde conservatifve nollor ... " Detta uttryck,
+               konservativa nollor, är troligen internationellt
+               och egentligen präglat av motståndare. Man behöver
+               blott erinra om matematikern Lejeune-Dirichlets
+               ironiska anmärkning: "Det är med nollorna i matematiken
+               som med nollorna i politiken : de ha värde
+               endast om de befinna sig på högra sidan."</p>
+            <p>Den gamla adeln såg med avsky, att regeringarna
+               upptogo borgerliga personer, som härstammade från
+               hotell Mollberg. Men 1840-60 funnos också revolutionära
+               klubbar (tobaksklubbar), där även adelsmän
+               voro med. Till 1848 års reformsällskap, som samlades
+               i La Croix' salong, hörde bl. a. friherre Raab,
+               som var, och förblev, en ivrig ref orm vän.</p>
+            <p>I borgarståndet existerade under åren 186o-67
+               det s. k. Björckska partiet och 1l1urenarna, vilka
+               senare återkomma även under det nya riksdagsskicket.
+               Den borgerligt radikala strömning, som
+               önskade en riksdagsreform, betecknades efter
+               tyskans "freisinnig" som frisinnad (från 1830-talet),
+               men tidigare hade det översatts med frisinnig, ett
+               ord som redan Franzen använt i sin dikt "Rabulisten
+               och Lantprästen". Denna åsiktsriktning drevs stundom
+               till radikala yttringar. Bekant är från 1860-talets
+               upprörda känslor för eller emot det gamla representationsskicket
+               Strindbergs antecknade fras: "Nu
+               börjas den egentliga stenkastningen" i Jäsningstiden.</p><pb n="16"/>
+         </div>
+         <div>
+            <p>Till dem, som mullrade mest mot det gamla och förlegade,
+               hörde även .skriftställaren Joh. Gabr. Carlen,
+               maken till författarinnan Emilie Flygare-Carlen, för
+               vars tomma teateråskor man tillerkände honom och
+               hans anhängare öknamnet revolutionsf år.</p>
+            <p>Inom bondeståndet vid 1862-1863 års riksdag
+               fanns en fritt opererande majoritet, kallad Rosenbergs
+               parti, efter den skånske skolläraren Rosenberg.
+               Samtidigt existerade en frisinnad grupp därinom,
+               som benämndes östgötapartiet, av motståndarna kallat
+               östgötha rackare. Något år tidigare, 1860, registrerades
+               inom samma stånd Isbjörnarna och Ola
+               lV!ånsare, en konservativt lagd riktning, uppkallad
+               efter Ola Månsson i Gärdslösa, Kristianstads län,
+               farfar till Charles Lindbergh f. ö. Nykterheten representerades
+               också. Harald Wieselgren skrev 1848:
+               "Man finner häraf att Baron Sparre (landshövd. i
+               Gävle, ╈ I79I} måste ha varit hvad vår tid kallar
+               'kringsvärmande nykterhetssvärmare'."</p>
+         </div>
+         <div>
+            <head>Från 1867 till 1917.</head>
+            <p>Efter två:kammarsystemets införande skulle partier
+               och fraktioner rikt utvecklas, och vi skola här
+               samla några namn. Den bästa av ministärer, som
+               Aftonbladet betecknade kabinettet De Geer-Gripenstedt,
+               såg sig snart omgiven av rivaliserande partier.
+               Enligt en olärd bonde var det så att 1868</p>
+            <p><l>"I kammaren fanns tre parti
+               la Keij Rajccal Byråkrati
+               som sällan droga lika
+               ty ingen ville vika."</l></p>
+            <note>2. Verdandis småskrifter. 373.</note><pb n="17"/>
+         </div>
+         <div>
+            <p>Emil Key bar hundhuvudet för vitsen la Keij och
+               hans parti var Lantmannapartiet. Denna grupp var
+               emellertid långtifrån lakejer. Carl Ifvarssons lantmannapartister
+               fingo snart nog binamn: kem·isterna
+               eller alkemisterna; detta sällsamma namn härledde
+               sig därav, att medlemmarna höllo sina sammanträden
+               i lokaler vid Berzelii park, vilken park uppkallats
+               efter kemisten Jöns Jakob Berzelius.</p>
+            <p>Under 90-talet fingo lantmännen kännas vid mera
+               direkta vedernamn, såsom fiaggagrarer, det av Göteborgs
+               Handelstidning lancerade de fosterländska
+               mjölpatronerna eller såsom i Gustaf Frödings nidvisa:
+               "Vi ä bönnra, spannmålstönnra ... " Orsaken
+               till dessa namn var en lantmartnagrupps höggradiga
+               protektionism och gruppens parlamentariska pösighet
+               i så måtto, att de behärskade andra kammaren och
+               fördenskull blevo mycket omfjäsade. En spricka
+               hade emellertid uppstått mellan olika lantbruksintressen
+               i riksdagen, det hade bildats två lantmannapartier:
+               Nya och Gamla, och när 1895 dessa
+               sammanslogos till ett parti, fick detta nybildade öknamnet
+               smnmansmältningspartiet; verkställarna av
+               fusionen fingo naturligtvis heta sammansmältarna.
+               En grupp, som leddes av Jöns (lantm.) och Abraham
+               (intelligens.) Rundbäck, fick år 1883 binamnet Rundbäckare
+               eller Rundbäckianer, som hade en nedsättande
+               klang. Orsaken var, att de under valrörelsen
+               1884 sökt genom allehanda medel uttränga det
+               gamla lantmannapartiets män från riksdagen eller
+               som det högtidligt hette: "förmå de uppsvenska land-</p><pb n="18"/>
+         </div>
+         <div>
+            <p>skapen att uppsäga Skånehegemonien tro och lydnad".
+               Samma år noteras även det parlamentariska
+               öknamnet fredskapuner, som stodo i motsats till
+               stridstupparna. Kapunerna i fråga voro meningsfränder
+               till den starkt pacifistiskt inställde bonden
+               Jonas Jonasson i Gullaboås ( Gullaboåsaren). Båda
+               dessa senare namn äro mycket målande och skilja
+               sig från övriga öknamn genom typ och innehåll.</p>
+            <p>I Nedre Kammaren, som Arvid Posse år 1866
+               efter engelskt mönster betecknade andra kammaren
+               - inom parentes må nämnas, att i engelska parlamentet
+               är underhuset "första kammaren" (1st Chamber)
+               och lordernas hus "andra kammaren" (2nd
+               Chamber) - som sagt i Nedre Kammaren, och oftast
+               även i den Övre, funnos naturligtvis andra partibildningar
+               också. Den De-Geer-Gripenstedtska ministärens
+               strävan för näringsfrihet, frihandel, politisk
+               och ekonomisk expansion understöddes av de ministeriella
+               - vilket namn nu upplivades från 1809- rn
+               - d. v. s. det s. k. JVIurenska regerings- och hämarpartiet,
+               korteligen Murenarna, efter grosshandlare
+               P. Muren från Gävle, eller Gripenstedtarna (efter
+               statsrådet J. A. Gripenstedt), eller W allenbergarna,
+               efter bankdynastien Wallenbergs stamfader, A. 0 :
+               Wallenberg; detta parti kallades slutligen även
+               Centern 1873. Växlingen i namnen visar, att meningsfränderna
+               härinom voro snarare en flock än
+               ett stramt parti.</p>
+            <p>De konservativa benämndes byrå- och plutokratien
+               och bland dessa formades ett aristokratiskt lant-</p><pb n="19"/>
+         </div>
+         <div>
+            <p>mannaparti i opposition, det s. k. Phoenixpartiet av
+               i866, lett av C. G. Mörner, en stockkonservativ
+               herre, som uttrycket lydde redan då. Redan under
+               '~den första förtjusningsfeberns smekmånad" anmäldes
+               sålunda opposition. De mera odeciderade av
+               stadsborna, i opposition mot lantmannapartiet, fingo
+               snart ett spydigt vedernamn 1867, påhittat av c. A.
+               Larsson i Maspelösa - enligt vad tidningen Östgöten
+               uppger 15 . IO. 1884-- intelligensen, av andra
+               förvrängt till diligensen. Intelligensen som beteckning
+               på borgarklassens parti är intressant, ty bakom
+               benämningen ligger samma föreställningar som i
+               Tsar-Ryssland, där den bildade medelklassen fick
+               heta intelligentsia, ett ord som under sista decenniet
+               uppträtt som ryskt lånord i både svenska ( t. ex. hos
+               Sten Selander), engelska och andra språk. Ur denna
+               ministeriella gruppering utkristalliserade sig snart
+               nog liberalismen; år 1868 framträdde den i form av
+               Nyliberala partiet.</p>
+            <p>Snart nog präglades öknamnen på Nyliberala partiet
+               (av 1868): frasradikaler, vars första del antydde
+               tvivel om äktheten hos det andra, från 1820 gängse
+               ordet, och samma var fallet med salongsliberal<note n="1" place="bottom"></note>, vilket
+               kom i tryck med Gil Blas' (E. Thyselius) 1891
+               utgivna "Bland Il kammarens nye män". Samme
+               förf. titulerar också Isidor Kjellberg (Östgöten)
+               kolportörsdemagog, och från andra hör man talas</p>
+            <note n="1" place="bottom">Jämför i våra dagar sa/ongskommunist, salongsbo/sjevik,
+               och äldre salongs socialist; jämför även kulturbolsjevism.</note>
+            <pb n="20"/>
+         </div>
+         <div>
+            <p>om storstadsradikalisni (1899), skränradikala (18g4)
+               (i motsättning till David Bergström), idealister
+               ( 1891), vilka skulle vara välmenande doktrinärer
+               och frasdyrkare och praktiska oförmågor, demokrater
+               ( 1891), som sympatiserade med socialdemokraterna
+               och hånades av liberalerna, nykterhetsvänner
+               och f örsvarsnihilister ( 1891). År 1899 skrev Spectator,
+               att medlemmar i ett frisinnat parti icke böra
+               "låta sig skrämmas av de epitet 'rabulister',
+               'samhällsomstörtare', 'hemmanorskar', 'uppviglare'.,
+               o. s. v., med hvilka den samvetslösare och mera
+               ovederhäftiga högerpressen brukar ha för sed att
+               öfverösa sina motståndare." Thyselius' salongsliberal
+               går igen i ett Jörgenkåseri i Figaro (16 . l. 1892):</p>
+            <p><quote>"D: r Björklund, utg. av N. D. A., politisk och litterär
+               högerman cirka 45 år gammal, d: r Nordensvan, moderat
+               salongsliberal, cirka 35 år, och herr Birger Schöldström, cirka
+               55 år, icke partiman, men snarare höger än vänsterman ... "</quote></p>
+            <p>Merbemälte Jörgen, red. Georg Lundström, som
+               var konservativ - han talar med förakt om det nya
+               plåtslagarsamhället ehuru han gärna umgicks med
+               Strindberg, Branting och andra revolutionärer mot
+               "de samhällsbevarande" - har karakteriserat sig
+               själv ( 1890) med att ha sitt "naturliga, rangerade
+               och litet aristokratiskt och samhällsbevarande frisinne".
+               I sin Figaro bjöd han ständigt på expressiva
+               öknamn inom politiken.</p>
+            <p>Den stora skiljelinjen i svensk politik under 8o- och
+               90-talen symboliserades av de nästan glömda
+               partibeteckningarna frihandlare och protektionister.</p><pb n="21"/>
+         </div>
+         <div>
+            <p>De senare sammanfattades under epitetet Tullpartiet.
+               På motsidan fanns frihandelsvänliga centern,
+               vars upplösning levererade många vildar i svenska
+               riksdagen; denna center bör ej förväxlas med frihandelscentern,
+               som var mera högerbetonad. 1891
+               talades också om de linkopensiska högerfrihandlarna
+               (i Östergötland) och frihandelsfantaster.</p>
+            <p>Bland protektionisterna återfann man huvudsakligen
+               högermännen, högern, som var arvtagare till
+               Wallenbergarna. Detta uttryck har emellertid aldrig.
+               lika litet, som titeln de konservativa, kommit med i
+               de olika högerpartiernas officiella namn, vilket förfarande
+               alltså står i motsats till danskans H fJjre eller
+               engelskans Conservatives. Däremot har ordet na.t-ionell
+               gärna anpassats på högerorganisationer, vilket .
+               ur språklig synpunkt ej kan anses riktigt. Idrottsrörelsen
+               kan kallas nationell, Sveriges uppträdande
+               vid vissa utrikespolitiska tillfällen ( t. ex. 1934 mot
+               Tyskland i fråga om detta lands ekonomiska åtgärder
+               mot bl. a. Sverige) kan kallas nationellt, men
+               ett parti borde ej monopolisera ordet, som ju egentligen
+               skall översättas "landsomfattande". Nationalismens
+               adjektiv är nationalistisk, ej nationell.</p>
+            <p>Av samma typ är fosterländska förbundet (90-
+               talet, i motsats till Stockholms-Dagbladshögern) ,
+               varigenom "fosterländsk" blev en spefull etikett:
+               fosterländska grisarna, av den äkta "fosterländska"
+               ullen, en "fosterländsk" länsman, o. s. v.</p>
+            <p>En politisk författare framhöll också för några
+               år sedan i en uppsats följande :</p><pb n="22"/>
+         </div>
+         <div>
+            <p><quote>"Ute i landet fanns det egentligen aldrig några lantmanriapartister
+               i formell mening. Detsamma gäller om dlet
+                  1895 bildade folkpartiet. Liberala samlingspartiet (1900)
+                  var ursprungligen också ett riksdagsbarn. För dess del förändrades
+                  emellertid ställningen då efter två år frisinnade
+                  Jandsföreningen tillkom 1902. Staaff förstod emellertid att
+                  ordna det så att det de facto blev riksdagsmännen som
+                  hade ledningen inom landsorganisationen. För högerns del
+                  råder ett i viss mån motsatt förhållande. Allmänna valmansförbundets
+                  födelseår är 1904. medan dess båda nuvarande
+                  riksdagsfraktioner tillkommo först 1912. Ett
+                  karaktäristiskt drag för högern är det räddhågade undvikandet
+                  av varje partibeteckning som anger den verkliga
+                  politiska inställningen; man ;opererar med namn som allmäm1a
+                  valm.ansförbundet, fosterländska förbundet, nationella
+                  partiet, lantmanna- och borgarpartiet, nationella ungdomsförbundet
+                  o. s. v."</quote></p>
+            <p>Betecknande är att medan liberaler och socialdemokrater
+               helt gemytligt godtaga de ursprungligen
+               nedsättande benämningarna libbe (libbar) och sosse
+               (sossar), saknas konsar och moddar (av moderata,
+               ett ord som flitigt använts av högern).</p>
+            <p>Under 1800-talet representerade framför allt adeln
+               det konservativa elementet, men man kunde också
+               tala om borgaradeln 1867-69. Samme Henning
+               Hamilton, som på 1850-talet (se ovan) fällde det
+               elaka yttrandet om adeln, var chef för en grupp av
+               skiftande sammansättning under Karl XV: s reger1ng,
+               de s. k. karolinerna, som voro konungens närmaste
+               anhängare. Någon större roll spelade de ju ej.
+               Under 90-talet cirkulerade öknamnet hovmarskalkspartiet,
+               mera högtidligt rnajoritetspartiet, på en</p><pb n="23"/>
+         </div>
+         <div>
+            <p>gruppering i I kammaren, ledd av P. Reuterswärd,
+               Lagerbring, Oelreioh, m. fl., och i Il kammaren
+               borgmästarpartiet eller centern, som stod. för
+               många städers konservativa borgerskap. Vad tillfälliga
+               öknamn beträffar, kan ju anföras följande ur
+               en lantmans brev 1873 : "Kommer så till 'Curres'
+               ( d. v. s. Curry Treffen:bergs) utnämning till landshövding,
+               så vill det synas som Bondplågare och Lantmannapartisthatare
+               skulle av regeringen gynnas."
+               Andra öknamn (på högern) voro "socialistätare"
+               och de på So-talet genom den från Tyskland införda
+               "klasskampen" introducerade "borgarklumpen" eller
+               "den enda reaktionära massan'', medan "bolagsväldet"
+               (1899) var en mera borgerlig term för högerns
+               tendenser. Öknamn på vissa högergrupper härledde
+               sig från deras omedgörliga hållning i norska frågan,
+               vilket bland annat föranledde den norske författaren
+               Arne Garborg att på 90-talet kalla Sverige "dette
+               Ralf-Ryssland ved Mälaren", men även i Sverige
+               framkallade storsvenskar, norskätare .. patentpatriotiska
+               vettvillingar (1899), punschpatrioter eller Alinare,
+               efter uppsalaprof. Alin, en svensk Die-hard
+               beträffande unionsfrågan under 90-talet och vän av
+               en viss "militärpromenad" över gränsen. "Sil/sallaten"
+               (unions flaggan) skulle till varje pris bevaras.
+               Vedernamnet patentpatrioter håller ju sig än i dag.</p>
+            <p>Innan vi övergå till landets största parti, skall påpekas,
+               att benämningen vilde för partilös riksdagspolitiker
+               är belagd först under slutet av 1880-ta.let;
+               Lunds Veckoblad brukar det 1887 och Vårt Land</p><pb n="24"/>
+         </div>
+         <div>
+            <p>1894 (då om Curry Treffenberg), men sätta det
+               inom citationstecken. Uttrycket finns i tyskan omkring
+               1850. Huruvida det härstammar från Rousseau's
+               "ädle vilde" är outrett.</p>
+            <p>Socialdemokratiska partiet, som framträder under
+               So-talet, upptog den internationellt gängse partibeteckningen,
+               men hade till firmanamn vid valen Arbetarpartiet
+               - jämför det engelska Labour Party.
+               Orsaken är ju lätt att förstå. Väljarna inom arbetarklassen
+               voro ju vid denna tid tämligen genomsyrade
+               av liberalism, ooh gemene man hade rädsla för ett
+               utländskt mystiskt ord som socialist, vilket användes
+               nära nog som skällsord bredvid det rakt på sak gående
+               socialistbuse ("Sigurd"), gängse i borgerliga
+               kretsar så sent som efter sekelskiftet. (Ordet borgerlig
+               är översättning av tyskans burgerlich, ursprungligen
+               från franskans bourgeois, en smått burgen eller
+               ännu bättre situerad medborgare i motsats till den
+               egndomslöse arbetaren, proletären; ordet förekommer
+               hos Karl Marx.)</p>
+            <p>Tankegångar besläktade med socialismen hade
+               länge funnits, men sedan dessa tendenser fått partinamn,
+               växte organisationen fram bland "allmogens
+               och arbetsklassens barn". (Landsh. Wingårds 5-årsber.
+               1828, s. 76). Redan mot 60-talets slut hade orden
+               folkvälde och folkvilja hörts i riksdagen (från Jöns
+               Pehrsson i Svaneryd, som ansågs ha haft en kommunistisk
+               vokabulär). Betecknande är att Marcellus
+               (Ny Samling av politiska silhuetter 1881) skriver:</p><pb n="25"/>
+         </div>
+         <div>
+            <p>"för den röde kommunisten<note n="1" place="bottom"></note> synes den konservativ,
+               som icke vill reformera allt". Till Mäster Palms
+               vokabulär, som skrämde de samhällsbevarande,
+               hörde "tjuvsamhället", "bukoxar'', "legodrängar",
+               etc. Partiet var klent företrätt i riksdagen, mera då
+               i 90-talets folk-riksdagar, som organiserats av d: r
+               David Bergström för att påvisa censusbestämmelsernas
+               orättfärdigihet och propagera för en rösträttsreform.
+               En schism inträffade emellertid i partilivet
+               i906, då Hinke Bergegren och hans anhängare,
+               ungsocialisterna, avlägsnades på grund av sina anarkistliknande
+               "småmordsteorier". Dessa "löss 1 den
+               röda fanans veck", som Bengt Lidforss kallade dem,
+               fingo det humoristiska öknamnet unghinkar, som
+               skapades från lärofaderns förnamn och segt lever
+               kvar ännu.</p>
+            <p>De egentliga partinamnen och deras öknamn äro
+               nu i huvudsak angivna. Men det fanns efemära öknamn,
+               av vilka några än i dag behålla sin livskraft.
+               Ett sådant är frifräsare = person med starkt radikala
+               åsikter, som det definieras i Svenska akademiens
+               ordbok. Det förekommer märkligt nog första gången
+               i en av Lundegårds romaner (Ulla) i894, medan en
+               tidigare betydelse "fräsande vind, kuling" återfinnes
+               1875. Frimickel<note n="2" place="bottom"></note>, jämte frikyrlwmickel, av vilken den</p>
+            <note n="1" place="bottom">Intressant är, att ordet kapitalist finnes redan i Then
+               Swänska Argus. Samme Wingård utgav 1830 "Håkan Vestgöthe.
+               Gammaldags SoC'ialistiska Asigter" (=social).</note>
+            <note n="2" place="bottom">Branting (i brev till Strindberg 1886) använder ox-micklar
+               om förstockade liberaler. [Troligen efter Hagbergs
+               övers. av Shakespeares "Henrik IV" (Il, 4: loggerhead =
+               dumskalle) . Jfr även A. Engström, Naket, 1934.]</note><pb n="26"/>
+         </div>
+         <div>
+            <p>förra antages vara en kortform, förekomma på samma
+               sida i samma nummer av Jörgens Figaro, 17, 1893;
+               en korsning av frikaplan (Figaro 13/ 9 1890) + oxmickel?
+               Till den politiska historien hörockså lergökar.
+               Under majoritetsvalens tid - före proportionalismen
+               - var det regel, att ett parti uppställde blott en kandidat
+               i en valkrets, men det hände 1875, att de frisinnade
+               uppställde två i en och samma krets: den gamle
+               riksdagsveteranen komministern Törnfelt och den i
+               parlamentariska ting "bak öronens musslor blöte"
+               lantbrukaren Magnusson i Lervik, Östergötland. Den
+               förtrytsamme Törnfelt skapade då av namnet Lervik
+               benämningen lergök för sin motståndare och partifrände;
+               sådana "halsstarriga sprängkandidater", i
+               elen mån de förekommo, hette sedan lergökar. Det
+               sporadiskt uppdykande Tinnerholmare ( = morsk,
+               bålstor politisk kämpe) är en avledning av Tinnerholm
+               ("Tinnerholm, Tinnerholm, stilla ditt blodiga
+               svärd!"), som är namnet på en "krigisk skräddare'',
+               anställd som sergeant i "landtverket" ( 1808 års lantvärn?)
+               enligt "Svensk Anekdotsamling" 1876; i denna
+               bok är benämningen dock utan politisk bimening.</p>
+            <p>Allmänna skällsord voro även lwnnstöpare, som
+               sedan Holberg 1722 uppfunnit ordet kom in i
+               svenskan 1729 med Lagerströms översättning och i
+               överförd betydelse finnes hos Gjörwell redan 1759,
+               och omkring 1890 ·vingelpolitiker, slyngelpolitiker
+               och boskapsfösare, - valboskapen är en gammal
+               term., tycks det! Femtioöringarna på Stockholmsbän-</p><pb n="27"/>
+         </div>
+         <div>
+            <p>ken 1887-89 gick väl över partigränserna, och maj-riksdagsmän
+               var namnet på ledamöterna i 1887 års
+               majriksdag. Från denna period antecknas också
+               Bondeska diskussionsklubben, grundad av Carl
+               Carlsson Bonde, sedan han utträtt ur lantmannapartiet
+               och blivit moderat liberal ("Bonden från hovet
+               var bättre än bonden från Hof", en kvickhet från
+               18g6 års rösträttsdebatt med udden mot Olof Jonsson
+               i Hof). Klubben bestod av ett 20-tal från lantmannapartiet
+               utbrutna representanter från huvudsakligen
+               Värmland, Dalarna och Gävleborgs län: "gruppen
+               Bonde". [Staaffs "kotteri" var ju blott en samling
+               personliga, mestadels opolitiska vänner till S.] Vid
+               minskningen av städernas representation under 90-
+               talet skapades termen vingklippningen.</p>
+            <p>Munkorgslagen (1889) var en brännande fråga;
+               den vände sig ju mot tryckfriheten. Mot slutet av
+               90-talet uppdöko två andra liknande tilltag riktade
+               mot arbetarna: Karl Jakob Jakobsons i Karlshult
+               motion 1898 om att med straffarbete möta strejker
+               och Pehrssons i Åkarp motion 1899 om straff för
+               "försök till hot" för att tvinga någon deltaga i arbetsinställelse,
+               som trots mördande kritik antogs av riksdagen
+               och trots högsta domstolens enhälliga avstyrkande
+               sanktionerades av den Boströmska regeringen.
+               Äkarpslagen, Akarpare och Akarperi äro
+               gängse uttryck än i dag. - Regeringen Adlercreutz
+               1874 fick ett expressivt öknamn: väderhattsministär;
+               dess partiella kris 1875, då statsråden Gunnar Wen-</p><pb n="28"/>
+         </div>
+         <div>
+            <p>nerberg, K. J. Berg och P. A. Bergström utträdde,
+               kallades skämtsamt bergssprängningen.</p>
+            <p>Partiväsendet blev i sitt officiella namnskick stabiliserat
+               under denna period. Man talade om höger och
+               högermän, fast de officiella namnen voro Allmänna
+               Valmansförbundet, Lantmanna- och Borgarepartiet
+               o. s. v. och vid val De Moderata, De Borgerliga,
+               o. s. v. Likaså funnos vänster och vänstermän, varvid
+               man dock gjorde skillnad mellan borgerlig
+               vänster, som voro liberaler eller frisinnade, och radikaler
+               - detta senare dock aldrig partinamn som de
+               två föregående. Till vänstern hörde också socialdemokraterna,
+               inom vars läger en frond spirade upp
+               i det Socialdemokratiska Ungdomsförbundet och
+               fann sitt organ i Stormklockan<note n="1" place="bottom"></note>, varför oppositionen
+               kallades Stormklockefalangen eller Stormklockor
+               (eller bara "klockor"). Dessa kittlade partiet
+               med slagorden "ministersocialism" och "gultbyxorna".
+               Efter den internationella radikala socialdemokratiens
+               kongress i Zimmerwald (Schweiz) 1915 betecknades
+               anhängarna av Zimmerwaldskongressen
+               som Zimmerwaldare, Zimmerwaldensare (Sv. Lösen
+               1916) och vänstersocialister. - Röstningsmetoden</p>
+            <note n="1" place="bottom">Våra dagars Stormklocka är vad i varje fall namnet
+               beträffar ingen kommunistisk ide av i dag, ty konstförvanten
+               A. 0. Lundell tänkte (1838) ge ut Stormklockan - och
+               lustigt nog uttogs på samma dag (23 nov.) utgivningsbevis
+               för Stormklockan, Signal Tidning vid åtskilliga tillfällen,
+               av f. d. r.iksdagsmannen A. Danielsson. Dessa tidningar
+               kommo emellertid aldrig ut. "Stormklockan" var också
+               smeknamnet på bonderiksdagsman Carl Anders Larsson i
+               Maspelösa.</note><pb n="29"/>
+         </div>
+         <div>
+            <p>vid allmänna val ändrades 1907-09 från majoritetsval
+               till proportionalism, vilket framkallade namnet
+               "antiproportionalister" av mera tillfällig natur.</p>
+            <p>Det som rörde upp lidelserna och satte klaffaretungor
+               i gång för verkningsfulla politiska öknamn
+               och slagord var emellertid den stigande stämningsvåg
+               för ökade försvarsutgifter, som frammanades
+               kort efter ministären Staaffs bildande 1911. Hedinska
+               "Varningsord", "pansarbåtsinsamlingen",
+               "Herrens signade (F-)båt", "försvarsknappen" och
+               "Knapptrusten" (präglat av Ludv. Nordström),
+               "försvaret främst" och dess ironiska omvandling
+               "förtalet främst", dessa ge en målande skildring av
+               politiska klicheer och invektiv under tiden fram till
+               världskriget 1914.</p>
+            <p>Redan den II juni 19u skrev Söndags-Nisse under
+               titeln "Litteratur":</p>
+            <p><quote>"Ett länge kändt behof för valrörelsens rationella bcdrifvande
+               har ändtligen fyllts, i det att "Ett tusen elfva
+               politiska skällsord" lämnat trycket. Boken är oundviklig
+               för enhvar kandidat, inpiskare, interpellant eller ledareskribent.
+               Arbetet sönderfaller i tre hufvudafdelningar:
+               'Ovett på socialister', 'Gnat på liberald och 'Skäll på
+               Lindman'.</quote></p>
+            <p><quote>Ord såsom 'skojare', 'streber', 'politisk väderkvarn',
+               'socialistlymmel', 'Staaff-docka' o. s. v. förekomma i alla
+               sammansättningar och med prof-fraser för deras användande.</quote></p>
+            <p><quote>Den berömde politiske skriftställaren Bon Soir har
+               skrifvit förordet. Vi anbefalla boken på det varmaste. Den
+               är mycket arbetsbesparande."</quote></p>
+            <p>Bon Soir, red. Herman Seldener i N. D. A., var</p><pb n="30"/>
+         </div>
+         <div>
+            <p>en mästare i förlöjligande, men mycket kortlivade,
+               benämningar på politiska motståndare. Bonsoirisinen,
+               som denna genre kallats (Soc.-D. 8 . JO . 27),
+               kan bäst studeras i artiklar inledda med rubriken
+               "Om vi nu ... " i N. D. A. under dessa år. När
+               situationen tillspetsades på nyåret 1914, hör man om
+               bondetågare (deltagare i 1914 års bondetåg eller anhängare
+               av deras politik), folkförbundarc, staajfianer (S.-N, 13,
+               1914) eller tyranner, vå1·dkasar, starbäckarc, borggårdare,
+               ung höger (som d: r Adrian Molin uppger sig ha myntat
+               1905), liberala försvarsviinner bredvid de gängse termerna
+               "borggårdstalet", "nu omedelbart och i ett sammanhang",
+               "studenttåget", "arbetartåget", "republikleven", "politiska
+               kronvrak", "försvarsnihilister", "den konstitutionella konflikten",
+               "Staaff eller kungen", "Sveriges ödestimma"
+               (=tyskt Schicksalstunde), borggårdsregeringen (=ministären
+               Hammarskjöld), "sågfilare", "bumeranger", "ryska
+               rubler", "Riket" (mot eljest "landet"), "de två nationerna",
+               "Lustiga Skåne", "krigets stålbad", o. s. v.</p>
+            <p>Världskrigets första år skapade "borgfred". Men
+               sedan arbetet "Svensk utrikespolitik i världskrigets
+               belysning" utkommit och påyrkat en "aktivistisk"
+               svensk utrikespolitik, kunna vi registrera en rad nya
+               etiketter, som täcka politiskt intresserade m: de
+               mest olika partier, framför allt aktivisterna, som påyrkade
+               "modig uppslutning på Tysklands sida". Så
+               finner man:</p>
+            <p><quote>"Våra ententister tala icke gärna om tredje makten i
+               förbundet" (s. 121) och "hemma-ententister" (s. 125.
+               Svensk utrikespolitik i världskrigets belysning); "Vi hade
+               icke heller haft några neutralister med auktoritet" (Ö. K.
+               30/ 8 15); "Hr L. kan enligt sin egen förklaring vara</quote></p><pb n="31"/>
+         </div>
+         <div>
+            <p><quote>pangermanist, expansionist och vad som helst" (Soc.-D.
+               11/9 15).</quote></p>
+            <p>Friherrinnan Akerhielm hittade på ett nytt ord aktio-
+               11ister. "Med de (senare) menas sådana som direkt agitera
+               för Sveriges deltagande i kriget. . . Aktivisterna godkänna
+               'neutralitetspolitiken, men yrka att den skall vara
+               aktiv" (D. N. 12/9 15); "auktionister ... så kallade emedan
+               de vilja auktionera bort vår neutralitet" (Svensk Lösen
+               23, 1916) ; "Fru Plomfelt sa bestämt att kungen är en
+               såtillvist efter indelningen: aktivister, såt-i/lvister och pacif
+               ister" (Trosa-Tidn. 7/9 15) av såtillvida?</p>
+            <p>Bredvid tysk-aktivister myntades entente-aktivister, bredvid
+               krigsaktivister, fredsaktiviste1·. Därjämte funnos svenska
+               annexionister; Aftonbladister (= tyskvänner, D. N.
+               1/4 16). - Jfr Allehandister (Jörgen på 90-talet). "Hela det
+               förut endräktiga pensionatet var splittrat i ententister och
+               centra/ister (=anhängare av centralmakterna), aftonbladister
+               och dagensnyhister" (Den Inbitnes Själaskatt,
+               1919, s. 35).</p>
+            <p>Suffixet -ist är ju en t. o. m. för svenskan gammal
+               tendensangivning (man järnföre blott neutralist från
+               1664), men har ju framför allt frodats i fransk
+               politik, t. ex. jusqu'au-bout-ister, etc. Det sammanhänger
+               oftast med en -ism, t. ex. antiparlamentarism
+               - antiparlamentarister (D. N. 16/4 16), men även
+               andra få det behändiga suffixet sig tillagt: "Självfallet
+               betvivlar ingen kongressisternas ( = Zimmerwaldare)
+               heder" (Soc.-D. 8/12 15).</p>
+            <p>Studentföreningen Verdandi i Uppsala har ju från
+               So-talet till medlemmar verdandister och D. Y. G.
+               i Lund D. Y. G.-ister. Men däremot heta medlemmarna
+               i den konservativa studentföreningen Heim-</p><pb n="32"/>
+         </div>
+         <div>
+            <p>dal heimdaliter liksom i den socialdemokratiska
+               uppsalaföreningen Laboremus laboremiter; vi ha
+               även tramna?liter i Norge. Denna efterled är troligen
+               av engelskt ursprung: Carsonite, Simonite,
+               Samuelite, etc. och återfinnes i få inhemska politiska
+               benämningar, t. ex. H järneit, efter professor Harald
+               Hjärne. Hjärneaner däremot ("kunnigt folk ... även
+               om de äro Hjärneaner." D. N. 14/8 15) har flera i
+               sällskap:</p>
+            <p><quote>"eller är vederbörande appellist eller gammalstavare
+               eller är han gamma/demokrat och brantingian - och då
+               är det bara etter värre" (Politiken 17/ 6 16); "Bergmanianerna
+               slagna vid tjänstemannavalet" (Soc.-D. 14/7 16);
+               "liksom de flesta av hans kategori är herr Rosen saxo-
+               11ian1" (D. N. 30/5 15). "Men vill man söka till dess rätta
+               valör och bestånd uppskatta en H ediniansk komplimang"
+               (d. v. s. av S. A. Hedin, i Thyselius' bok: Branting och
+               Hammarsköld p. 79). Av den kände politikern Höglunds
+               initial får man Zetiansk: "den zetianska manövern" (Soc.D.
+               29/ 2 16). Ibland nöjer man sig ej med det enkla -ian,
+               utan tillägger efter -are: "Så Bismarckianare jag är, kommer
+               jag aldrig att tro på att framgång i en given politik
+               rättfärdiggör lögner och undanflykter" (Soc.-D. 28/7 16).</quote></p>
+            <p>Den kristliga organisationen K. F. U. M. samlar
+               k-f-u-m-are, och detta -are är nog det vanligaste tilllägget
+               till namn i Sverige av dylik art. Från världskriget
+               kunna vi anteckna:</p>
+            <p><quote>"Förra året fanns tillräckligt många Kjellenare (=tyskvänner)
+               inom första kammarens majoritetsparti" (D. N.
+               12/9 15); "det ligger dock närmare att säga, att intimiteten
+               knappt kan vara större än då Kjellenare, v. Melste-dare,
+               Aftonbladister (= tyskvänner) och Svensk-Lösen-</quote></p>
+            <note>3. - Verdandisis småskrifter. 373.</note><pb n="33"/>
+         </div>
+         <div>
+            <p><quote>pojkar (=aktivister) gå högaktade omkring som barn i
+               fadershuset" (D. N. 1/4, 16); "den synpunkt man där anlägger
+               är diametralt motsatt den som var förhärskande
+               bland Fordarna (= fred'svänner), när de lämnade Newyork"
+               (D. N. 12/1 16); "Men många Wessenare (=tyskvänner)
+               tycks det i alla fall finnas" (Soc.-D. 15/9 15). "Sen till
+               inom alla partier att inga skålandrare komma upp på
+               listorna" (D. N. 16/11 16) av bryggeriarbetaren socialdemokraten
+               Skålander; "men vi vilja ha varken Oljelundare
+               (=pacifister) eller Ljunglundare (=aktivister) vid mak-ten" (U. N. T. 19/4, 16).</quote></p>
+            <p>Skålander var vid denna tid appellist, en antinykteristisk
+               riktning som tagit namn efter gamle Mäster
+               Palms "fylleristiska" tidning Appell. D: r Ivan Bratt
+               hade framträtt och fått igenom sitt restriktionssystem
+               under perioden, vilket orsakade många partibeteckningar
+               inom pressen, som följande klipp visa:</p>
+            <p><quote>"Herr Branting beskylles för bra.ttianism" (D. N. 28/1
+               16); "med helnyktra skarpa ögon upptäcker han hos
+               nykterhetsrörelsen tusen bristfälligheter, som aldrig en
+               moderatist ... kunnat upptäcka" (Naggen 2/9 16); "Om den
+               inte hör till, som det nya namnet lyder, akvavisterua"
+               (Soc.-D. 27/6 1916) av akvavit!; "bakom skymta djupa led
+               av appellister" (Soc.-D. 26/11 15).</quote></p>
+            <p>D: r Bratt hade en energisk medhjälpare i den nyinrättade
+               Kontrollstyrelsen, byråchefen E. J: son
+               Thulin, och motståndarna talade därför om "republiken
+               Bratthulinien", en fiktiv stat med "renle'1.inadsmän,
+               magsyrister och bratthulinare". Ibland
+               märkas också "Stendahlare ocih appellister" (D. N.
+               13/3 1917) sammankopplade i samma syfte.</p>
+            <p>Utom aktivistklubbarna, som man ej har så god</p><pb n="34"/>
+         </div>
+         <div>
+            <p>reda på, fanns under världskriget den radikala kretsen
+               Palmstiernas klubb, kallad Vi, men av Nya Dagligt
+               Allehanda döpt till Sociala Skräphögen.</p>
+         </div>
+         <div>
+            <head>Från 1917 till 1935.</head>
+            <p>Den andra ryska revolutionen 1917 medförde i
+               fråga om den politiska terminologien för Sveriges
+               del inte blott det nu till alla språk importerade bolsjevik
+               eller (sällsyntare och nu utdött) bolsjevist
+               (och det snart utdöende mensjevik), utan även ett
+               nytt lexikon av allmänna politiska invektiv. Det tidigare
+               teoretiska ordet kommunist fick kött och blod;
+               vänstersocialisterna blevo kommunister eller t. o. m.
+               spartakister (infört från tyska revolutionen). Schismer
+               inom detta nya politiska parti förekommo ideligen
+               och utvandringar till andra politiska läger
+               skedde relativt ofta; den gamla Lindhagenska satsen
+               "ett steg till vänster kan alltid försvaras" upphörde
+               att ha giltighet. Följaktligen hörde man talas om
+               Lindhagens humanister, och under tvånget av "Zinovievs
+               21 teser" och däri krävd kadaverdisciplin
+               uppkommo höglundare (mot nermänner), kilbomare
+               eller kilbomiter (som först bildade ett svenskt kommunistiskt
+               parti och senare, 1934, Sveriges Socialistiska
+               parti, s. k. Strömbommare<note n="1" place="bottom"></note>, det är en sammanslagning
+               av f. cl. socialdemokraten Ströms i</p>
+            <note n="1" place="bottom">"'Strömbom' är inte något skällsord utan endast
+               språklig funkis, emedan det blott är en praktisk förkortning,
+               i troligen riktig ordning beträffande sammanställningen,
+               av namnen Ström och Kilbom. Sådan ändamålsenlighet
+               komma vi inte att avstå ifrån, även om det till
+               äventyrs skulle förarga herr Kalle Kilbom att Ström även rent språkligt sett kopplas ihop med bom eller bom med
+               Ström och Kil, d. v. s. halva Kilbom betraktas såsom obef
+               intlig eller åtminstone rudimentär" (Arbetet 1934). Jämför
+               ur D. N. 1934 för samma parti: "I stället ryta och larma
+               de s. k. kilströnzarna nu om diverse för dem själva mera
+               riskfria protestaktioner."</note><pb n="35"/>
+         </div>
+         <div>
+            <p>Göteborg och Kilboms båda namn), vilkas motståndare
+               på ytterkanten voro Sillenare. Även funnos
+               andra motsättningar: majoritetare ( d. v. s. bolsjevik)
+               och minoritetare<note n="1" place="bottom"></note> bland kommunisterna själva. Den
+               politiska svada, som släpptes lös i spalterna, avlagrade
+               invektiv på de närmaste och envetnaste motståndarna,
+               socialdemokraterna, för vilka revisionister
+               eller Brantings Garde ej dugde, utan socialpatrioter
+               (1917), som idkade revolutionsgymnastik, kontrarevolutionärer,
+               arbetar-i örrädare, klass-förrädare,
+               socialförrädare, arbetarbödlar, renegater<note n="2" place="bottom"></note> (som utförde
+               judastjänster) och, naturligtvis, kobbeköttare
+               (efter en importaffär i sälkött, vari några socialdemokrater
+               inblandats), N oskesocialister, m. m. Under
+               följande decennium fingo de heta mondister
+               (efter en samförståndskonferens, ledd av Sir Alfred
+               Mond (Lord Melchett) mellan engelska arbetsgivare
+               och arbetare), socialmondister, pacifist-fascister
+               (Mussolini hade segrat i Italien), patentreformister,</p>
+            <note n="1" place="bottom">De kommunistiska minoritetarna - snyggt ord! - i
+               Stockholm firade på torsdagskvällen minnet av den ryska
+               bolsjevikrevolutionen (Sv. D. 9/11 29).</note>
+            <note n="2" place="bottom">Senare flyttat på andra : Det trogna Moskvaorganet
+               Norrskensflamman i Luleå tillkännager, att den i sina
+               riksdagsmeddelanden kommer att med bokstaven r beteckna
+               kilbomarna. Till den som frågar, vad denna partibokstav
+               skall betyda, lämnar Norrskensflamman den upplysningen,
+               att den skall betyda - renegat (Ny Tid 22/1 30).</note>
+            <pb n="36"/>
+         </div>
+         <div>
+            <p>träskvandrare, högerimperialister, samförståndsschakaler,
+               kapitalistlakejer (som voro "köpta"),
+               plankbärargeneraler (här syftades på Vatikanens<note n="1" place="bottom"></note>
+               L. 0.), zörgieblar<note n="2" place="bottom"></note>, mestertonare, m. m. Exempel
+               på tidningsstilen finnes i en rubrik i kommunisttidningen
+               Ny Dag (1931): "Knäfall för tvångslagen
+               eller uteslutning, dekreterar brytarorganisatörerna i
+               Grov. Arbetarna mönstrar upp till brytarvärvarnas
+               möte. Soc.-D: s svartfötter ( = eng. blackleg) specialister
+               på polisangivelse."</p>
+            <p>Naturligtvis kom det svar på tal: bolsterv·iker (av skämtsamt
+               slag), sovjetmän (Soc.-D. 2/a 28), moskoviter, moskvaträlar,
+               oxkommunister (efter Zinovievs teser, som krävde
+               kadaverdisciplin) och därav härledda oxar, i sammansättningar
+               som Solnaoxarna (Soc.-D. 26/, 28). lvletallo.rarna
+               vid Diesels (Soc.-D. 16/, 28), vilka avsågo "oxkommunistiskt"
+               sinnade medlemmar i fackförbundet "Järn och Metall".
+               Följande rubrik ur Arbetet (13/ 0 29) är alltså ingen
+               rebus : "Sju oxar sparkade bakut, sex togo snällt emot
+               rappen. De beskedliga kräken stånga nu dem som vrenskas.
+               Den kommunistiska farsen börjar nu bli verkligt rolig."</p>
+            <p>När Folkets Dagblad Politiken flyttat till Luntmakaregatan,
+               blevo kilbomarna kallade luntmakare,
+               efter Kreugerkraschen fingo de heta K reugerproletärer,
+               dessutom hemma-bolsjeviker, rödgardister.
+               Sedan Z. Höglund lämnat kommunistpartiet,
+               fortsatte dock höglundare att leva som kommunistisk
+               etikett a la Kilbom: "Två höglundare gick över</p>
+            <note n="1" place="bottom">Vatikanen betraktas på sina håll nästan som Tammany
+               Hall i New York (1867), med nära nog samma makt.</note>
+            <note n="2" place="bottom">Efter en socialdemokratisk polispresident Zörgiebel i
+               Berlin.</note><pb n="37"/>
+         </div>
+         <div>
+            <p>till vårt parti" (Ny Dag 3/8 31), medan D. N. (13/10
+               34) anpassar det på "kommunala" socialdemokrater
+               av viss cert: "man hör . hur partiets höglundare i
+               t. ex. Oslo genom den mest ogenerade löftespolitik
+               söka köpa väljarnas bevågenhet", och vid annat tillfälle
+               (30/5 28) talar om albinister, engbergare och
+               höglundare inom socialdemokratiska partiet. Omkr.
+               1919-20 fanns benämningen ungdeinokrater för
+               medlemmar av Eskilstunarörelsen, d. v. s. det nya
+               socialdemokratiska ungdomsförbundet, som startade
+               i Eskilstuna. I Göteborgs stadsfullmäktige funnos
+               på sin tid sju kommunister. När de tyranniserade
+               Göteborgs staclsfullmäktige med sina okynnesvoteringar
+               och sin svada, gav folkhumorn åt de sju representanterna
+               det betecknande namnet Cirkus Sjuina11.
+               Förskjutningarna inom elen politiska balansen under
+               detta skede ledde också till vissa principdebatter
+               och partiuppgörelser, både inre och yttre. Ett
+               visst missnöje hade gjort sig gällande litet varstans.
+               En trollformel var norrlandsfrisinne contra prof essorsliberalisin.
+               Detta frisinne framdrev liberala samlingspartiets
+               sprängning på förbuds frågan. "Prof essorsliberalisinen"
+               <note n="1" place="bottom"></note>, hette det, var alltför konservativ,
+               alltför litet folklig, alltför manschettbetonad. "Norrlandsfrisinnet''
+               åter det var folkligheten, flärcllösheten,
+               radikalismen och det äkta refonnnitet. Prof.
+               Eden, ibland kallad partifördärvaren, och hans meningsfränder
+               döptes till "spritliberaler". Motståndar-</p>
+            <note n="1" place="bottom">"Professorsliberaler" skall, enl. Pressens Tidn. 3, 1935,
+               vara uppfunnet av red. Anton Wlikström.</note><pb n="38"/>
+         </div>
+         <div>
+            <p>na till dem voro Ljunggrenianerna (efter Augus~
+               Ljunggren).</p>
+            <p>Det började även skaka i fogarna på samarbetet
+               inom vänstern, som haft gemensam gräns, tusch-strecket,
+               mot högern. St.-T. skrev (20/6 27), sedan
+               vågmästarpartiet ( = de folkfrisinnade) eller tuvhoppningssystemet,
+               den "hoppande pailamentarismen",
+               haft tid att verka:</p>
+            <p><quote>"Höger och vänster ha gjort s111 tjänst som en av bckvämlighetsskäl
+               använd beteckning på en viss partipolitisk
+               relation under ett visst skede. Om sådana termer liksom
+               många andra före dem, efter hand få helt stilla läggas till
+               summan av politikens förbrukade artiklar, så försvinna
+               'icke med dem vare sig de konservativa, de liberala eller
+               socialistiska iclcerna."</quote></p>
+            <p>Det antyddes också något om "frihetsfientliga och
+               antidemokratiska våldsmakter i tiden", och socialdemokraterna
+               satte upp ett förvånat ansikte. Att
+               "höger och vänster" blivit "förlegade politiska slangtermer"
+               visade sig också i en uppdykande "borgerlig
+               samling". Man började tala om "svansen som
+               styr" på borgerligt håll. Därmed menades, att kommunister
+               och kilbomare genom att rösta under rubriken
+               Arbetarpartiet tillförde socialdemokraterna
+               röster, som dessa skulle bli beroende av i sin politik.
+               Socialdemokraterna påstodo, att gemensam
+               valbeteckning var emot deras vilja och åstadkommo
+               en utredning, framlagd i februari 1930, om partietikettens
+               registrering. Det stannade därvid, men vid
+               valen t. ex. i Göteborg 1934 har det visat sig, att</p><pb n="39"/>
+         </div>
+         <div>
+            <p>parti- och valbeteckningar även kunna utnyttjas av
+               extremer på andra sidan.<note n="1" place="bottom"></note></p>
+            <p>Att det var slöseri med att ha ett liberalt och ett
+               folkfrisinnat parti (Ekmännerna), insågs snart, och
+               i slutet av 1920-talet startades begreppet Nässjöcentern
+               av riksdagsman Oscar Carlström. De blevo
+               nämnda frisinnade carlströmare (1929). "Hur är den
+               frisinnade ledarens hållning till carlströmarna?" (Ny
+               Tid 10/ 10 29). Efter huvudorganet nämndes folkfrisinnade
+               även morgonbladensare.</p>
+            <p><quote>"För det första släpper han ingen morgonbladensare över
+               bron" (D. N. 25/11 30) ; "vilken upphöjd och moralisk
+               sysselsättning, som politiken är för valfläskspendersamma
+               riksdagsmän och en morgonbladensiskt ädel och renhjärtad
+               regering (N. D. A. 15/3 28).</quote></p>
+            <p>Även andra grupper funnos inom samma parti,
+               t. ex. hamrinare (efter Felix Hamrin; sedan denne
+               besökt Finland under förbudet och förklarat, att det
+               var "uppenbar lögn", att sprit serverades öppet i
+               restaurangerna, kom ordet att betyda en snaps!
+               Det var inte Ekmansdricka!) Slutligen skedde en
+               förening av de två mellanpartierna, men innan namnet,
+               som blev Folkpartiet (och ej Folkliga Samlingspartiet,
+               som föreslagits), skrev Karlstadstidningen
+               våren 1934:</p>
+            <p><quote>"Högern kallar sig högern ( !), bondeförbundarna kalla
+               sig bondeförbundare, socialdemokrater kalla sig social-</quote></p>
+            <note n="1" place="bottom">Valbeteckningar äro högst subjektiva företag. "Vid ett
+               sammanträde i söndags i Gillberga mellan borgerliga valmän
+               för uppsättande av kandidater till stundande kommunalfullmäktigeval
+               fastställdes som partibeteckning:
+               'Mot järnväg'." (A. E. 2/9 30).</note><pb n="40"/>
+         </div>
+         <div>
+            <p><quote>demokrater, kommunister kalla sig kommunister, nationalsocialister
+               kalla sig nationalsocialister - varför skall då
+               inte också vänstern kunna ta ett namn som anger vad den
+               vill? När andra goda namn som varit föreslagna blivit
+               ratade - till dessa namn hör dock inte det från liberalt
+               håll framförda Folkliga samlingspartiet, vilket är ungefär
+               lika oklart som Folkpartiet - varför då inte rätt och slätt
+               och ärligt kalla sig Vänstern?</quote></p>
+            <p><quote>I våra skandinaviska grannländer, vilkas politiska förhållanden
+               äro närmast jämförbara med våra, förekomma
+               inga sådana intetsägande partinamn som det nu för svenska
+               vänstern tillämnade. Det är visserligen sant att danska
+               vänstern under tidernas gång förvandlats till något som
+               motsvarar vårt bondeförbund och att frisinnade vänstern
+               i Norge numer är ett moderat högerparti. Men det är en
+               annan sak att ett partis program så småningom förskjutit
+               sig, medan dess beteckning bibehållits - även i politiken
+               byter inte gärna en firma namn."</quote></p>
+            <p><quote>"Lyckligtvis"</quote>, tillade Dagens Nyheter,<quote>"är ju ett namn
+               ingen livssak. Men nog vore det trevligare att ansluta sig
+               till ett parti som kallas efter sitt syfte än till ett som sveper
+               in sig i en intetsägande benämning." - I Folkpartiet uppgick
+               även Centern av 1931, en moderat-liberal skara.</quote></p>
+            <p>Om de övriga partinamnen under perioden är litet
+               att säga. Efter kriget grundades ett nytt lantmannaparti,
+               Bondeförbiindet, som naturligtvis blivit kallade
+               bonde/ örbundare eller, efter ledaren Olsson i Kullenbergstorp,
+               kullenbergstorpare. Även inom detta parti
+               fanns det professorer, varför prof essorsbönder låg
+               nära till hands. Efter 1934 års kohandel - ett ord av
+               tyskt parlamentariskt ursprung K uhhandel - fingo
+               de, och socialdemokraterna, heta kohandlare, eller
+               efter den nye ledaren Pehrsson i Bramstorp brams-</p><pb n="41"/>
+         </div>
+            <div>
+               <p>torpare ("Vad ska bli av bramstorparna? Bramstorparna
+                  söka visst ordna reträtt." D. N. 1934).</p>
+               <p>Högern har som i Frankrike och Tyskland opererat
+                  under skilda camouflage för att försvara sina
+                  positioner (men har av kommunisterna kallats vitgardister).
+                  Särskilt uppväckte regementsminskningen
+                  en storm av ovilja bland de högersinnade och
+                  den fann även genljud i kungatalet på Ränneslät.t
+                  1925; på liberalt håll döpte man då dessa försvarsivrande
+                  kretsar till Smålands Ryttare<note n="1" place="bottom"></note> (Soc.-D. 26/11
+                  28). Om högerns uppgifter under det sista skedet
+                  skriver parodiskt Fönstret (9, 1934):</p>
+               <p><quote>"Högerpartiet är Den Store Entreprenören här i landet.
+                  Det har alla goda livs- och samhällsmakter på .entreprenad.
+                  I åtskilliga fall är denna entreprenadställning så
+                  stark och ostridig att den kan sägas utgöra ett faktiskt
+                  monopol. Dit hör entreprenaden på Religionen, Moralen,
+                  Rättsordningen, Fosterlandskärleken, Riksintresset, Kultu~ansvaret,
+                  Försvaret och Näringslivet.</quote></p>
+               <note n="1" place="bottom">"Landskapsnamnet Småland har på något vis alltid förbundits
+                  med konservativ envishet i politiken. Man kan
+                  erinra om att slagordet "mörkaste Småland" som en gång
+                  byggdes på Stanleys berömda boktitel "In Darkest Africa''.
+                  nu har fortlevt flera decennier utan att alldeles förlora
+                  sin kraft. Naturligtvis är det i hög grad ensidigt och orättvist.
+                  Det syftade på elen (religiösa) konservatism., som
+                  kännetecknat allmogen i Jönköpings (o. Kronob.) län. Knappast
+                  någonstädes höll man som där fast vid nedärvda åskådningar.
+                  Det fanns likväl ett undantag. Den gamla statskyrkligheten
+                  hade undanträngts av en pietism som lätt antog
+                  trångbröstade, livsfientliga och fanatiska .drag .. Intet
+                  är, sades det, så tröstlöst som ett småländskt stationssamhälle,
+                  och däri såg man gärna den småländska anden
+                  materialiserad" (Sv. D. 20/5 28). Enligt annan uppgift
+                  (Strindbergs) gäller beteckningen "Sigurds" (Hedenstjernas)
+                  Växjöbygd.</note><pb n="42"/>
+            </div>
+         <div>
+            <p><quote>På sistone har verksamheten emellertid utvidgats högst
+               avsevärt, i det att partiet, trots arbetsanhopningen, måst
+               övertaga en rad entreprenader från övriga partier. Detta
+               är fallet med Demokratien, Folkgemenskapen, Arbetsfriheten
+               och Arbetsfreden, smärre byggnationer att förtiga.
+               Socialdemokratien har t. o. m. måst låta Friheten, Jämlikheten
+               och Broderskapet gå sig ur händerna och se dem
+               omhändertagas av Den Store Entreprenören, vars fullföljande
+               av verket ingen rättvis bedömare kan frånkänna
+               det vitsordet, att det är fullt tidsenligt."</quote></p>
+            <p>I tidernas fullbordan kom en kraft söderifrån :
+               Nazi. Ännu så sent som 1930 {20/9) kunde N. D. A.
+               under denna rubrik skriva:</p>
+            <p><quote>"En rebus till överskrift, måtte den locka tålmodige
+               läsare att se efter vad därunder kan dölja sig.
+               Det betyder vad som officiellt kallas National-Sozialistische
+               Arbeiterpartei.<note n="1" place="bottom"></note></quote></p>
+            <p><quote>Ingen har tid i vardagslag att uttala detta långrandiga
+               ord, allraminst nu på hösten, när dagarna bli oroväckande
+               korta. Därför förkortningen till dagligt bruk. I all synnerhet
+               behövlig till dagligt bruk, då de stackars tyskarna nog
+               få det ordet på tungan flera gånger om dagen under en
+               lång tid framåt."</quote></p>
+            <p>Redan före 1930 fanns emellertid en nazistisk pro-</p>
+            <note n="1" place="bottom">Hitler uppger i sin bok "Min Kamp" (1923), att han
+               själv bildat namnet. Emellertid talades omkring 1919 om
+               nationalbolsjevism och den 16 mars 1917 infördes i veckotidningen
+               Die neue Zeit en artikel av socialdemokraten Kari
+               Kautsky. Han levererade däri en mycket stark kritik mot
+               det tyska arbetarpartiets krigspolitik och sade, att partiet
+               från att ha varit ett internationellt parti blivit ett nationellt.
+               Artikeln hade till rubrik: Utvecklingen mot national.
+               socialismen. Nazi uppgives vara förkortning av Na"
+               (tionalso)zi(alismns), men troligen är det format efter
+               socialdemokraternas vedernamn i Österrike och Sydtyskland:
+               Sozi(s).</note><pb n="43"/>
+         </div>
+         <div>
+            <p>pagandist i Sverige, veterinären Birger Furugård i
+               Deje (" kobotaren", "riksledaren", furugårdaren,
+               etc.). När nazi importerades hit från Tyskland, anpassades
+               det enligt svenska uttalsvanor till nasse
+               ( "little pig"), pluralis nassar, varvid förut nämnda
+               oxar, och möjligen mussar<note n="1" place="bottom"></note> (av Mussolini, = fascister),
+               inverkat i processen. Något högre än nasse står
+               nazist, men andra öknamn äro furugårdsindianer
+               (Ny Tid 29/3 32) och stövelknektar (F. D. 1/3 32).
+               Liksom fascisterna hade nazisterna sin yttre uniform;
+               de voro framför allt skjortbärare: svartskjortor
+               och brunskjortor, som fått avläggare i blåskjortor,
+               grönskjortor ooh rödskjortor, de sista bland
+               kommunisterna, som därmed upplivat traditioner
+               från Garibaldis dagar. Färgerna, speciellt rött, ha
+               politiserats och monopoliserats för vissa politiska
+               meningsriktningar, t. ex. Röda dagen, Röda internationalen,
+               Röda Hjälpen (men ej Röda Korset och
+               Röda Stjärnan!), Röd Front, ja, t. o. m. Röda Röster!
+               Gulingar och svartfötter höra strängt taget ej
+               till annat än ekonomisk politik. I detta sammanhang
+               kunna nämnas fackföreningsrörelsens snyltgäster,
+               skubbare och pytsåkare (det senare speciellt gängse
+               bland Landsbygdens Folk).</p>
+            <p>De olika nazistpartierna i Sverige ha naturligtvis
+               kallats efter sina "Fiihrer" :</p>
+            <note n="1" place="bottom">Se anf. pressklipp från 1930 om italienska fascister :
+               "De unga männens uniformer voro växlande, gemensam
+               för alla var dock den svarta skjortan och slipsen samt den
+               beslutsamma minen a la Mussolini. Åtskilliga 'mussar'
+               voro skönt beprydda."</note>
+            <pb n="44"/>
+         </div>
+         <div>
+            <p><quote>"Tre kommunala Trollhättemän bli Furugårdare" (D. N.
+               14/ 11 32). "En svensk nationalsocialisms banerförare, redaktör
+               Malte Welin, har fått nog av försöken att ena de
+               svenska nazisterna och att av ft{ntgårdare, lindholmare,
+               sommelianer, meyerhöffare och en hel del andra sektmakare
+               skapa ett stort svenskt Hitlerparti. Han har nu av
+               förtvivlade ultrahögerherrar uppmanats att än en gång
+               söka medla" (Arb. 8/a 33). "Nya våldsdåd av nassar.
+               Lindholmare slår Brolinare halft fördärvad"; Svenska
+               nationalsocialistiska partiet (Furugårdarna); "Furugårdare
+               och Ekströmare i ett block?" "Där var mest lindblomiter
+               och furugårdare, men även andra politiska färger voro
+               representerade" (D. N. sept. 33).</quote></p>
+            <p>Kommunisterna hade sina fronter (som bekant
+               splittrades Röda Frontförbundet 1933 efter en kontrovers
+               mellan ledningen för frontförbundet och
+               höga vederbörande inom bolsjevikpartiet. "Röda
+               frontarna, som fronderade mot sillenledningen, bildade
+               en avdelning i Stockholm med gamla namnet ... "
+               D. N. 1934; Röd front = hälsning), och möjligen
+               efter tyskt mönster ( t. ex. Erich Remarques bok
+               "På västfronten intet nytt"), blev det mod att
+               tala om byxfront, teaterfront, filmfront, bokfront ;
+               så, när nazisterna kommo, blev det nazistisk, nasseoch
+               arisk front. "Den gängliga arierfrontaren
+               stöp som han hade varit skjuten" (Frihet 1934).
+               Arier tillhör ju nazisternas teminologi och i följd
+               därav upplivades termen asaläsare från Falstaff
+               Fa:kir. Sedan 1933 har också ordet marxist, efter
+               tyskt nazi-mönster, börjat flitigt användas i stället
+               för socialdemokrater, i snärtande mening - ad
+               maiorem Marxi gloriam. Socialisterna avfärdas</p>
+            <pb n="45"/>
+         </div>
+         <div>
+            <p><quote>genomgående som "krassa nyttopolitiker" och "habila
+               klassrepresentanter", varvid "planhushållning"
+               och "socialisering" (från 1920) hållas upp som spöken
+               och om demokratien säger en nazistisk "teoretiker"
+               (1934): "Så länge demokratin bjuder oss
+               vågmästeri och kohandel, klasskamp och klassavund,
+               monopol och arbetslöshet i de utlovade nydaningarnas
+               ställe, så länge kan demokratin aldrig kallas
+               grundmurad i Sveriges land."</quote></p>
+            <p>Den moderna tendensen att av ett med flera ord
+               sammansatt namn skapa en initialföljd, t. ex. ScaniaVabis,
+               Asea i Västerås, har på sistone börjat tillämpas
+               även på politiska partiers namn. Initiativet tillkommer
+               Sovjetryssland med typer, såsom komintern
+               (av /wmmunistiska internationalen), där delar av
+               ordkropparna visserligen pressas samman, och G. P.
+               U. (initialerna för tjekans, den ryska politiska polisens
+               organisation).</p>
+            <p>Tysklands Nazis ha följt i spåren med N. S. A.
+               P. D. ( = National-Sozialistische Arbeiter-Partei
+               Deutschlands) och därefter de svenska nazisterna
+               S. N. S. A. P. Vad var då naturligare än att "Sveriges
+               Nationella Ungdomsförbund" med tillägget
+               "och Nationella Förbund" (från 1934) skulle upptaga
+               iden: SNU(ONF)? Numera har denna något
+               "snuviga" förkortning, anmärkte D. N. 1934, ändrats
+               till SNU och NF, varigenom hela Nationernas
+               Förbund (N. F.) kommit med i namnet. Avledning är
+               snuonfare, snuare (Soc.-D. 2/3 35). Övriga partier ha
+               emellertid i detta avseende ställt sig avvaktande.</p>
+            <pb n="46"/> 
+         </div>
+         <div>
+            <p>Därmed kunna partiers och fraktioners namn i
+               övervägande grad sägas vara uttömda, fastän inbitna
+               parlamentariker nog veta mera, varför förf.
+               gärna motser meddelanden. "Rixdaxgubbarna", Albert
+               Engströms namn från 1897, ha kollektivt, oberoende
+               av partier, gemytligt kallats riksdagsfarbröder
+               (från 1876) i motsats till Stockholms stads
+               hundra tyranner<note n="1" place="bottom"></note> ( = stadsfullmäktige), men stundom
+               också riksdassmän<note n="2" place="bottom"></note>. Låt oss tillägga, att det är
+               beklagligt, att våra ålderspresidenter i kamrarna ej
+               få.tt en varmare titel, såsom t. ex. Englands Father
+               of the House.</p>
+            <p>Slutligen kunde påpekas att ordet ri!?sdag, som
+               professor Nils Ahnlund nyligen (N. D. A. 12/ 1 34)
+               framhållit, först från 1600-talets början blev allmännare
+               brukat; förut var det herredag, samlwäm,
+               möte, herremöte och enbart dag. Ordet riksdag är
+               översättningslån från tyskans Reichstag. Riksdagsman
+               lär förekomma första gången 1664 i en fullmakt
+               för Gärds härad i Skåne. I allmänhet förblev
+               dock titeln herredagsman. Tilltalet Gode herrar och
+               svenske män från 1660-talet innehåller ju skillnaden
+               mellan folk och folk, men hade en hävdvunnen traditionell
+               klang, då uttrycket efter kvinnornas tillträde
+               till kamrarna fick ändras till "Svenska män och kvinnor.
+               Valda ombud för Sveriges folk". Med tiden blir</p>
+            <note n="1" place="bottom">Tyrann i denna betydelse torde en!. Stockholms stadsfullmäktiges
+               ordf. herr Knut Tengdahl vara åtminstone 6o
+               år gammalt.</note>
+            <note n="2" place="bottom">I danskt folkspråk förekommer Jens Rigsdagsmand
+               som beteckning på "talträngd person" (Feilberg, Dania III).</note><pb n="47"/>
+         </div>
+         <div>
+            <p>väl denna hälsningsformel - om vår riksdag ej utsättes
+               för svåra och alldeles otillbörliga rubbningar
+               - lika historiskt märgfull och klingande som den
+               formel, vilken den en gång ersatte.</p>
+         </div>
+         <div>
+            <head>Öknamn på politiska personligheter.</head>
+            <p>Man hade för några år sedan riksdagsmannaval
+               på Hawaiiöarna i Söderhavet, men det visar sig, att
+               vad man på våra breddgrader drömmer om som typiskt
+               för dessa exotiska förhållanden alls icke är
+               tillfinnandes, utan det hela försiggår relativt prosaiskt
+               och vardagligt, som överallt. Det är endast sättet att
+               vinna röster, som kan skilja sig från våra nyktrare
+               vanor. Kandidater, som ställt upp sig till valen, ha
+               fått tillstånd att lägga sig till med ett musikaliskt,
+               långt utdraget, inhemskt namn, som beskriver deras
+               yrke eller moraliska egenskaper. Så till exempel var
+               det en herre, som ville kalla sig Herr "Han-somskall-
+               nedsätta-skatten", men detta vägrades av myndigheterna.
+               Däremot hade Herr "Koa Olisli 0
+               Hawaii Nei", vilket betyder Herr "Han-som-modigtgör-
+               en-sång-om-de-hawaiiska-behoven", blivit erkänd,
+               och det var på detta vis, som Mr. Bertram
+               Rivenburgh hade uppställt sig. Mr. Josef Scharsch,
+               som hoppades bli sheriff, kommer från ön Kauai, som
+               är ryktbar för sitt goda vin, kallat mokihana, och han
+               hade bestämt sig för detta namn. Det är ungefär
+               detsamma, som om Herr Björnberg från Enköping
+               skulle kallat sig "Pepparrot" eller Herr Larsson från
+               Västerås skulle kalla sig "Gurka" och det är kanske</p><pb n="48"/>
+         </div>
+         <div>
+            <p>alltid ett uppslag att tänka på. President Coolidge
+               hugnades på sin tid med ett äresnamn av Siouxindianerna
+               i Pine Ridge Reservationen, Syddakota:
+               "Tysta Vattnet". En amerikansk senator, Peter N orbeck,
+               av svensk härkomst, har hugnats med "Slaghöken".
+               Engelske f. d. premiärministern Stanley
+               Baldwin besökte under sin Kanadaresa 1927 en indianstam,
+               som hedrade honom genom att utnämna
+               honom till hövding med namnet "Sittande örnen".
+               Detta namn har visat sig vara ett farligt hövdingenamn,
+               och det är ofta föremål för motståndarnas
+               retsamma kvickheter. Sålunda gav MacDonald, som
+               då tillhörde den socialdemokratiska oppositionen,
+               namnet en gliring i ett angrepp han riktat mot regeringen
+               för dess passiva hållning gentemot lantbruksoch
+               industrikrisen: "Vår premiärminister", sade han,
+               "fortsätter att sträva efter att göra sig förtjänt av
+               sitt hövdingenamn; han sitter och sitter, men företager
+               sig inte något."</p>
+            <p>Liknande politiska öknamn kan man finna i Frankrike.
+               Namnet "Tigern" användes så naturligt, så enhälligt
+               om Clemenceau att allvarliga personer betecknade
+               honom så utan att däri inlägga någon fientlig
+               avsikt eller brist på respekt. Andra öknamn inom den
+               franska politiken voro de Freycinet Vita Råttan,
+               Buffet Svarta Ormen. Ja, man kan också hit räkna
+               förre konseljpresidenten, förutvarande franska republikens
+               president Gaston Dourmergues smeknamn Le
+               Sage de Tournefeuille, d. v. s. "Den Vise från</p>
+         </div>
+         <note>4. -- Verdandis småskrifter. 373.</note><pb n="49"/>
+         <div>
+            <p>Tournefeuille"; eljest och förtroligare är kortnamnet
+               "Gastounet".</p>
+            <p>Från engelskt parlamentariskt liv känna vi Lloyd
+               Georges bekanta "den välske trollkarlen" ( the Welsh
+               Wizard), "den lille knepige välsaren" (the tricliy
+               little W elshman) eller the W elsh Lian (det välsiska
+               lejonet). Kuriöst är det med vissa andra politiker;
+               nyttjas om dem förnamnet, får detta ett adjektiv
+               före. Så är t. ex. fallet med John Burns, som alltid
+               hette "honest (hederlige) John", likaså John Morley
+               "honest John" och John Storey, den avlidne statsministern
+               i Nya Syd-Wales, "honest Jack". Varför
+               äro alla John-ar hederliga? En orsak kan ju vara,
+               att John är ett så vanligt, prosaiskt namn i den anglosachsiska
+               världen. Man kan ju erinra om beteckningen
+               för genomsnittsengelsmannen John Citizen,
+               ett slags engelsk Medelsvensson, eller om den höglandsskotska
+               motsvarigheten i Robert Burns' dikt
+               Jolly Beggars :</p>
+            <p><l>There's not a !ad in a' the Ian'<lb/>
+               Was match for my John Higlandman.</l></p>
+            <p>Engelsmän och amerikanare ha också en annan
+               smeksam form av politiska benämningar: Good Old
+               George, om Lansbury, ledaren av Hans Majestäts
+               opposition och Labour Party, Uncle George, om senatorn
+               Norris från Nebraska, betrodd rådgivare till nuvarande
+               presidenten Roosevelt. Det är emellertid
+               ingen tillfällighet att detta blivit mod i Förenta Staterna.
+               Kortnamnen höra i vår tid, och under de århundraden,
+               som ligga före vår tid, framför allt hem-</p><pb n="50"/>
+         </div>
+         <div>
+            <p>ma i de breda lagren. Redan i medelklassen blir man
+               mera formell och än mera så i överklassen. I primitiva
+               samhällen, nybyggarsamhällen, är det klart, att
+               förnamnsskicket skall frodas mycket mera än i gamla
+               stabiliserade ståndsstater.</p>
+            <p>Presidenten Calvin Coolidge kallades därför Cal,
+               ofta även Cool Cal, d. v. s. den kalle Cal eller
+               Cautious Cal (försiktige Calvin), och hans motståndare
+               vid ett presidentval Alfred Smith heter helt
+               simpelt Al. Den forne vicepresidenten Charles Dawes
+               hette naturligtvis bara Charlie och talmannen i kongressen
+               Nicholas Longworth blott Nick. Utrikesminister
+               Kellogg, som givit namn åt en fredspakt,
+               kallades vanvördigt nog för Nervous Nellie (Nervösa
+               Nelly).</p>
+            <p>Vända vi nu tillbaka över Atlanten kan man hitta
+               liknande namn, t. ex. Young Billy Gore (unge Billy
+               Gore), som användes om ministern Ormsby-Gore;
+               han är c: a 50 år. Men gamle Palmerston fick heta
+               Pam eller Cupid ( = Cupido) ; Dizzy var smeknamnet
+               på Disraeli-Beaconsfield. Gladstone har visserligen
+               på tidsavstånd kallats the Grand Old Man, men
+               det skedde aldrig i hans livtid: på sin höjd fick han
+               heta Mr. G. Arthur Balfour hade inget öknamn;
+               någon gång kallades han Arthur eller Mr. B., men
+               Campbell-Bannermans namn blev förkortat med tre
+               stavelser till C. B. Den engelske statsman, som i modern
+               tid fått ett patenterat öknamn, är Lord Brentford,
+               som före sitt adlande hette Joynson-Hicks. Det
+               blev .Tix, och denna förkortning ansågs så populär,</p><pb n="51"/>
+         </div>
+         <div>
+            <p>att den användes av hans egna partivänner i Primrose
+               League i valkampanjen, vilket man förstår av följande
+               vers:</p>
+            <p><l>"Jix the boy for work,<lb/>
+               Jix the boy for play,<lb/>
+               Jix the !ad when times arc bad<lb/>
+               To keep the Reds away."</l></p>
+            <p>Andra engelska parlamentariska öknamn kunna
+               nämnas. Rupert af Debate, bildat på kavallerigeneralen
+               Prins Rupert från 1640-talet, var binamnet på
+               den 14: e earlen av Derby (1799-1869), som va1·
+               en av de skickligaste debattörer engelska parlamentet
+               haft. Han har sin exakta motsats i Mr. William
+               Gerard Hamilton, som under en lång parlamentarisk
+               bana på 1700-talet yttrade sig blott en enda gång
+               (1755), men - det bör rättvisligen tilläggas - då
+               varade också anförandet i 15 timmar. Sedan uppges
+               han ha varit tyst under resten av sin politiska karriär,
+               och fick också heta Single-Speech, d. v. s. "ett anförande".</p>
+            <p>Att få ett offentligt smek- eller öknamn är för en
+               politiker en stor ära. Det visar, att han är populär.
+               Med sin fina näsa tar också pressen upp sådana öknamn
+               och de bli framskrikna så att säga i megafon
+               genom att ofta upprepas i spalterna, för vilkas rubriker
+               de också bli lämpliga beroende på sin korthet.
+               Kan man anse, att folkhövdingen Engelbrekts epitet
+               "then litsla man" var ett politiskt smeknamn? Kanske
+               i alla fall, och då symboliserade det ej blott kroppshöj
+               den utan även hans mera demokratiska härkomst</p><pb n="52"/>
+         </div>
+         <div>
+            <p>-- omstridd som vanligt. Regentnamn i forntid och
+               medeltid ha tidigare berörts, men eljest är det fattigt
+               på tidiga öknamn på svenska politiker.</p>
+            <p>Den gamle vaktgubben eller vallgubben var öknamnet
+               på en av Gustav III: s förtroendemän C. Scheffer
+               på 1770-talet (vits på Schäfer-fårvaktare), men
+               det är inte mycket. Troligen kunna dokumenten, undersökta
+               ur öknamnssynpunkt, ge mycket mera.</p>
+            <p>1809 års statskupp framkallade en binga av stridsskrifter
+               och pamfletter, där de politiska huvudagerande
+               fingo sig öknamn påstämplade, t. ex. St. Göran
+               för Georg Adlersparre, ett tämligen kvickt namn.
+               Rektor G. A. Silfverstolpes tillägg till skalden och
+               riksdagssekreteraren Valerii politiska visa "Så widt
+               möjligt är" innehåller flera öknamn på gustavianerna,
+               t. ex. H olof ernes för Gripenwaldt, Jacob för
+               greve Jacob De la Gardie, Herr Mickel för lantmarskalken
+               Anckarswärd. Uppträdena på Riddarhuset
+               2 och 6 mars 1810 orsakade en pamflett "Rackarmansvalet
+               hållit den I Mars 1810 uti Sjö- och Stapelstaden
+               Röfwaremåla", vari förekommo följande
+               figurer (med angivna nyckelnamn):</p>
+            <p>Ömkansvärd = Anckarswärd.<lb/>
+               Mannerskielm = Mannerheim.<lb/>
+               Båtström = amiral Rudolf Cederström.<lb/>
+               Slammerström = Jacques Cederström.<lb/>
+               Laxerheim = Arkiater Schultzenheim.<lb/>
+               Pratenberg = A. G. Mörner.<lb/>
+               Puckelstolpe = Rektor G. A. Silverstolpe.<lb/>
+               Gyllenlack = Gyllensvan.<lb/>
+               Ädelman = löjtn. Påhlman.</p><pb n="53"/>
+         </div>
+         <div>
+            <p>Dessa voro dock skapade av författarna och ej
+               gängse öknamn, såsom Silverpuckeln ( = G. A.
+               Silfverstolpe). Detta är också fallet med några, som
+               skola antecknas här nedan.</p>
+            <p>Ett av de äldsta parlamentariska öknamnen är
+               Riksdagarnas Torslow, som tillades den från lovande
+               officer till prost i Sala omgjorde greven Fredrik
+               Bogislaus von Schwerin. Schwerin var född 1764 i
+               Stralsund och blev ståndsenligt officer, men lät vid
+               24 års ålder efter hastigt expedierad prästexamen
+               utnämna sig till kyrkoherde i Sala och 1812 var han
+               med i riksdagen, där han anslöt sig till oppositionen
+               samt jämte friherre Corfitz Ludvig Stael von Holstein
+               kallades oppositionens fader. Det Schwerinska
+               öknamnet lancerades av Crusenstolpe och syftade
+               på bärarens vältalighet och grandessa i uppträdandet.
+               Dessa namn voro emellertid något krystade och
+               konstlade, ungefär som Gripenstedts binamn ministerens
+               kompass. Mårten Holk på G. F. af Wirsen (1810
+               -20) och Nötknäpparen på frih. Boije (1840-t.)
+               voro dock riktiga öknamn, vilka man dessutom hittade
+               i bondeståndet.</p>
+            <p>Allmogen, som nu är tungan på vågen i vårt politiska
+               liv och utomlands får bära hundhuvudet för
+               åtskilliga diktaturer, stod före 1866 ej så högt i
+               socialt och politiskt anseende. Först år 1867 tillerkändes
+               bonderiksdagsmännen herretitel, och hur man
+               dessförinnan kunde handskas med bönderna visar ett
+               protokoll från 1815, då bondeståndets sekreterare,
+               lagman Olof Werlin, antecknade, att "en lymmel</p><pb n="54"/>
+         </div>
+         <div>
+            <p>
+               från Alfvestad i Kronobergs län, Petter Johansson,
+               var ostyrig". Sekreteraren och regeringen hade sin
+               hand med vid valen, och det förefaller som skulle
+               de goda dannemännen varit åtskilligt kuschade under
+               perioden fram till representationsreformen på 6otalet.
+               Därigenom att de ej hade rätt att kallas herr,
+               uppstod naturligtvis benämningar efter förnamn,
+               ortnamn eller rena öknamn. Den skolintresserade
+               bonden Måns Nilsson i Skumparp under 40-talet
+               gick oftast under namnet Skumpen efter hemtrakten,
+               men förvärvade också hederstiteln Ljuset.i
+               bonde. En annan medlem i bondeståndet, sidenfabrikören
+               K. A. Almgren, hedrades med det förtroliga
+               namnet Morbror Knut - ett namn som för i minnet
+               anglosaxiska namn, t. ex. Uncle Arthur för Arthur
+               Henderson, och "Farbror" för F. V. Thorsson.
+               Riksbekant är, att Sven Nilsson i Österslöf (¥ 1877)
+               kallades generalen (1869) på grund av sina stora
+               militära kunskaper, medan Matts Pehrsson i öster
+               Edsvik, Roslagen, på 1850-60-talen förlänades
+               186o-61 titeln amiralen - troligen för att han
+               bodde vid kusten och sett sjön! Daniel Danielsson
+               från Nyabyberg i Östra Härad hade ett beskedligare,
+               från 1859 daterat öknamn, Dubbeldaniel. Carl Anders
+               Larsson i Maspelösa, som måtte varit en kvick
+               karl, hette också Bondeståndets Stormklocka, eller
+               blott Stormklockan, medan hans bänkkamrat A. A.
+               Andersson i Västanå, som alltid brukade resa sig
+               och instämma med Maspelösabonden, fördenskull
+               kallades Repeteruret, en titel som han troligen bar
+            </p><pb n="55"/>
+         </div>
+         <div>
+            <p>redan i bondeståndet. Ett tillfälligt öknamn är väl det
+               i ett privatbrev använda "Wår mor(s)ke Killis
+               Broome" 1869; det är Offenbachs "morske Akilles",
+               som går igen i Hedemora.</p>
+            <p>Att landshövdingen Curry Treffenbergs förnamn
+               lätteligen förvrängdes till Curre var ju klart; år
+               1869 heter det i ett brev från en lantmannapartist
+               Ersson i Wallsta: "den der Curry Treffenberg måtte
+               vara en riktig Curre !" Mera karakteriserande är
+               öknamnet på Johan Andersson i Tenhult, Jönköpings
+               län, ledamot av Il kammaren 1879-99; han kallades
+               Tennsoldaten med anledning av ett härordningsförslag,
+               om vilket han en gång motionerade. Nils
+               Petersson i Runtorp, Kalmar län, hade det fina binamnet
+               den store rikshushållaren på grund av sin
+               sparsamhet i anslagsfrågor, medan mindre hedersamt
+               var det, som Vårt Land 1896 lastade på riksdagsveteranen
+               Johan Johansson i N oraskog: "Sveriges
+               störste politiske vinglare". Käggelgubben kallades
+               gemytligt Jonas Peter Nilsson i Käggla, Norra Tjust.
+               Landshövding Lothigius i Vänersborg medförde från
+               sin hemstad namnet M oltigius, som han lär ha gjort
+               skäl för, och om Stallerhult sades, att han var "riksdagens
+               mest snabbtungade talare".</p>
+            <p>Sven Adolf Hedin, vars minne vi nyss firat, var
+               ju den store rabulisten för dåtidens konservatism.
+               Han tände sina brasor under regeringarna och fick
+               därför ock heta Braständaren. Hans motståndare
+               var "Kung Bergström" eller kvarstadskungen (Per
+               Axel Bergström, lagutskottets ordf. 1882-92).</p><pb n="56"/>
+         </div>
+         <div>
+            <p>Från yngre dagar kunna vi notera Kalkas för
+               Karl Staaff, ett binamn som dock förvärvats vid
+               universitetet och just aldrig slog igenom i riksdagen.
+               Amiral Lindmans politiska nom de guerre är ju
+               Starke Arvid; det har överförts på honom från en ·
+               brottare, som också har just Arvid till förnamn.
+               C. G. Ekman försökte en gång genom en felsägning
+               få hr Lindman omdöpt till Tullman - av lättförklarlig
+               anledning, - men detta glömdes snart. Arvid
+               Achates är endast en smula försmädlig förtrolighet,
+               liksom avlidne talmannen i I kammaren Hugo Hamiltons
+               något ironiska hr Ekman, Carl Gustaf. Denne
+               politiker bär emellertid sedan sina två frisinnade
+               regeringar under det sista decenniet öknamnet Vågmästaren
+               eller Tummen; det förra är redan förklarat
+               som lämpligt namn på en balanskonstnär mellan
+               höger och vänster i regeringspolitiken och det senare
+               bygger på en legend, att han, likt Cesarerna,
+               med tummens hållning upp eller ned antydde, om
+               förslag skulle eller icke skulle antagas.</p>
+            <p>Rual var ju ett känt smeknamn för Raoul Hamilton,
+               andra kammarens vice talman på sin tid. Varför
+               inte rätt och slätt Hamilton? Nej, det skulle ha
+               förvillat och lett till förväxling med Hugo Hamilton.
+               Raoul är ju ett rätt svårt namn att utläsa, särskilt
+               då man inte vet, att namnet uttalas Ra-ol, varför
+               man förenklade det till Rual. Det kan också erinras
+               om att han bar hedersnamnet Stugornas Folk,
+               en vändning som han ofta inflikade i sina tal. Hans
+               frände Hugo Hamilton hade ju efter en rabulis-</p><pb n="57"/>
+         </div>
+         <div>
+            <p>tisk politisk morgonrodnad namnet Röde Greven,
+               som blev oförtjänt på gamla dar, då han "avancerade
+               bakåt".</p>
+            <p>Andra svenska parlamentariska smeknamn av
+               denna förnamnstyp är Maggan, den där även heter
+               Mauritz Hellberg, troligen ett arv från skol- och
+               barndomstid. Järnvägsarbetaren Månsson, som kandidaten
+               till Svenska akademien halvt snobbigt skyltar
+               med som officiell yrkestitel, är ju känd som
+               Fabian, ett riksdagens smeknamn. Aaby var det
+               gängse namnet på den bortgångne patriarkaliske
+               senatorn Aaby-Ericsson. Och Karl Napoleon påstods
+               vara ett omtyckt, honom pådyvlat namn på
+               den framlidne kommunistiske förstakammarledamoten
+               Winberg. Efter imperialskägget eller efter laterna
+               och överlägsenheten?</p>
+            <p>Nuvarande statsministern heter ju Per Albin rätt
+               och slätt. Han har även fått heta så i debatten enligt
+               vad tidningen Arbetet berättat:</p>
+            <p><quote>"I första kammaren har man kvar alla titlar, och där
+               surrar det av 'herr greve' och 'herr baron', medan man i
+               andra kammaren rätt och slätt använder 'herr' som titel.
+               En kvarleva finns dock och det är titlarna till statsråden.
+               Till dem brukar i debatterna sägas t. ex. 'herr statsrådet
+               och chefen för försvarsdepartementet'. Men 'Revinge' är
+               nu i färd med att avskaffa även denna titel, som är nog så
+               lång och tungrodd att hantera i debatter, där den kan förekomma
+               ofta. När han häromdagen var i debatt med dåvarande
+               försvarsministern, så började han så vackert med
+               att säga: 'herr statsrådet och chefen för försvarsdepartementet',
+               men om en stund sade han endast 'herr krigsminister',
+               för att efter ytterligare ett par minuter säga</quote></p><pb n="58"/>
+         </div>
+         <div>
+            <p><quote>'herr Hansson'. Så långt var ju allt gott och väl, ty 'herr
+               Hansson' säger också Lindman, när han kommer i farten.
+               Men även detta blev lite långt för 'Revinge', ty om en
+               stund klämde han till med 'herr Per Albin'. Då log hela
+               kammaren och den som log mest var Per Albin själv . . . "</quote></p>
+            <p>Statsminister Per Albin Hansson gör skäl för sitt
+               populära förnamn, men egentliga orsaken till smeknamnets
+               uppkomst lär vara, att han i första socialdemokratiska
+               ungdomsföiibundets tidning Fram
+               under en lång följd av år nyttjade Per Albin som
+               signatur; sak samma lär det vara med förre riksdagsmannen
+               Christiernssons politiska nom-de-guerre
+               Lukas, som egentligen är ett nom-de-plume. Branting
+               fick aldrig heta "Hjalmar", men han kallades i
+               trängre lag Br., vilket förtroliga tilltal återfinnes redan
+               i tillfällighetstidningen Vet Hut! på hans myndighetsdag
+               (23/ 11 81).</p>
+            <p><quote>"Tidigt gjorde han sig känd som en ledande debattör
+               vid den akademiska ungdomens överläggningar och det var
+               redan vid dessa Uppsaladiskussioner", skrev Dagens Nyheter
+               1921, "Nils Eden förvärvade det tillnamn, Silvertrumpeten,
+               som sedermera följt honom in i det parlamentariska
+               livet. Namnet hänförde sig till tenorstämman."</quote></p>
+            <p>Detta är ett öknamn och bör skiljas från tillfälliga
+               beteckningar, såsom högerns kronprins (förr
+               Järte, nu I var Andersson) eller när D. N. kallade
+               Hjärne för "den ensamme elefanten, som trumpetande
+               rusar fram genom den parlamentariska
+               djungeln". Verkliga öknamn äro "Kornknarren",
+               "Trädgårdshägern", "Regeringsadjunkten" samt det
+               råa "Spikjesus" och vidare finnas - eller funnos -</p><pb n="59"/>
+         </div>
+         <div>
+            <p>Angköks-Olle, Altarhingsten, Fjällräven, Boven eller
+               Robinson, Jesus vid I2 års ålder i templet, Porslinsherdinnan,
+               Justitiepelle, Blodtörstelund (präglat febr.
+               1935 av Lindhagen), vilka nog kunna identifieras.
+               Ett vänligt och alls icke illa menat binamn är Hängbjörken
+               på en solid högerjournalist i riksdagen, ett
+               namn som givits honom på grund av hans något
+               hängande hållning. Kvarn är ju namnet på Kvarnzelius.
+               Bokstaven P med en stjärna uppe i högra
+               kanten uttalades P stierna och symboliserar minister
+               E. Palmstierna; det är just inte ett öknamn, för
+               resten, eftersom vederbörande kunde använda det
+               själv. När Söndagsnisse kallade E. G. Boström
+               ministerslukaren och när krigsmin. Crusebiörn i
+               C. A. Tollens för länge sedan avsomnade skämttidning
+               Kläm kallades Krusbärsbjörn, äro dessa
+               öknamnsprodukter för ögonblicket. Många av de
+               öknamn på politiker, som återfinnas i Söndagsnisses
+               alla årgångar, i Strix och i Jörgens Figaro
+               ha nog samma efemära karaktär som när Hammarskjöld
+               blev kallad Hungersköld eller när hr Hamrin
+               blivit kallad den svenske Millimeternich (av 1934).
+               Mera stadfäst är N. D. A: s Killevippbombom eller
+               Kilbomski ("Hela Sveriges Kalle"). Med ryska
+               revolutionen sympatiserande eller på annat sätt förbundna
+               politiker i alla länder ha fått dragas med
+               den ryska personnamnsändelsen -ski eller med andra
+               slaviska suffix, som tillagts deras borgerliga namn.
+               Så läste man härförleden i en fransk tidning:</p><pb n="60"/>
+         </div>
+         <div>
+            <p>"Aterkomst från Geneve. Vaktmästaren: - Har den
+               äran att anmäla - kamrat Barthouvinov !" (av Barthou
+               QCh Litvinov); de engelska Wynotdumpsky (= Why not
+               dump?), Uptodatesky (= up to date).</p>
+            <p>Det är möjligt, att Zeta bör in under denna rubrik,
+               men namnet är ju endast signaturbokstaven för Z.
+               Höglund. Kungens handsekreterare, kanslirådet
+               Sandgren, har ett öknamn :</p>
+            <p><quote>"När prof. Westman påpekade att regeringen genom sin
+               hållning engagerade kungamakten i en konstitutionell konflikt,
+               slog han in en kil i första statsmakten. Den som från
+               läktaren hade tillfälle att följa händelsernas utveckling
+               kunde inte heller undgå att . lägga märke till att kungens
+               handsekreterare - i riksdagskretsar kallad 'st ormsvalan'
+               - med stort intresse tog del av prof. Westmans inlägg."
+               (G. H. T. okt. 29.)</quote></p>
+            <p>Ett av vedernamnen i det svenska politiska livet
+               var Herman Klyvare, Herman Lindqvist, som en gång
+               gjorde en "rationell klyvning", för övrigt ett öknamn
+               av språkligt ganska intressant typ. Ett annat vedernamn
+               är Simlångsdalen, tillagt Fredrik Ström, som
+               övertagit namnet efter sin bok: Folket i Simlångsdalen.
+               Med Simlångsdalen äro vi inne på riksdagsmännens
+               ortbenämningar, Kullenbergstorp, Boestad,
+               Kabbarp, Skottlandshus, Vibberbo och allt vad de
+               heta.</p>
+            <p>Till riksdagen kommo bonderepresentanter med
+               namn, som slutade på son, och det var därför nödvändigt
+               att skilja på dem genom tillägg av den lokala
+               ursprungsbeteckningen. I Bondeståndet titulerades
+               t. ex. så: A. Jonsson i Jönköpings län, medan</p><pb n="61"/>
+         </div>
+         <div>
+            <p>det nya riksdagsskicket införde t. ex. herr A. Jonsson
+               i Skillingaryd. Därav härledde sig olika vanor,
+               som skola visas. Bonden kunde få benämning efter
+               gården, då han om-, och icke till-, talades.</p>
+            <p>Nils Petersson i Runtorp blev kallad Runtorparen, Johannes
+               Andersson i Ryssby fick heta Ryssbyarn, Carl
+               Ifvarsson i Värestorp utmärktes med Värestorparen, Jonas
+               Jonasson i Gullaboås omtalades som Gullaboåsaren, Karl
+               Jakob Jakobsson i Karlshult fick herostratisk ryktbarhet
+               som Karlshultaren, och Jonas Andersson i Häckenäs, Östergötland,
+               dubbades till Häckenäsaren. Denna metod har
+               hållit i sig och verkar än i dag: häradsdomaren J. B.
+               Johansson i Fredrikslund har passerat som Fredrikslundaren,
+               Olsson i Kullenbergstorp får lida K1tllenbergstorparen
+               (ja, en gång Kullenbergaren i Ny Tid 30/6 1930), Olofsson i
+               Digernäs blir Digernäsaren, och vem har inte hört Tällbergaren,
+               Antnäsarn (1935) och Brånaltaren? Jämför presscitat:
+               "Södermanlands läns tidning piskar Brånaltaren efter
+               förmåga" (D. N. 27/10 15); "Det enda nya i bilden har varit
+               allas vår Herman på Tällbergarens plats" (Soc.-D. 28/1 18).</p>
+            <p>Den andra, liknande metoden, var att till vissa
+               ortnamn foga bara den bestämda artikeln, ungefär
+               som när d: r Ljunglund i Allehanda roar sig med
+               att karikera motståndare med namn som Wigforssen,
+               Strömmen, Segerstedten, o. s. v., eller den typ, som
+               återfinnes i äldre svenska, Sparren, Ribbingen, Puken:
+               "H. G. Excellensen Riks Ammiralen Stenboken"
+               (i brevadress på 16oo-t.), "ett slags förklaring
+               på Pukens utnämning" [ Crusenstolpe, Morianen p.
+               211, (omkring 1850)]. Sådana riksdagsnamn äro, om
+               inte många, dock åtskilliga. Jag anför här från pressen:</p><pb n="62"/>
+         </div>
+         <div>
+            <p>"I detta Kabbarpens tidevarv regera ondskans makter"
+               (Signalen 21/1 16). Vidare "den klassiske bondegestalten ...
+               Bjernalten" (St.-T. 18/1 27). Ibland kan man i tidningarna
+               finna alla typerna varierade :</p>
+            <p><quote>"I dag ha vi ju sparat två millioner på vattenfallsstyrelsen,
+               genmälde hr Swartz, och dem kanske hr Olof sson kan
+               få i stället. - Jo, jag tackar, så mycket bättre, blev Digernäsarens
+               svar.</quote></p>
+            <p><quote>Hr Olof sson i Digernäs är envis som få och korrespondenten
+               är förvissad om att Digernäs inte ger sig förrän han
+               fått både de två millionerna och mera till i anslag till Norrlandsjärnvägarna."
+               (D. N. 18/a 19).</quote></p>
+            <p>Digernäs är en typ, som, såvitt utrönas kan, ej är
+               fullt 100 år gammal och som man, utanför riksdagen,
+               ibland tvekar att godtaga som familjenamn, t. ex.
+               Påboda, Rösta, Tånga. I Finland gå de dock som
+               sådana: lantdagsman Broända, bankdirektör Hästbacka,
+               bonden Heleneborg. En modernare tid i Sverige
+               torde komma att godtaga dem, och ursprunget
+               är då att söka i riksdagen. Redan nu ha vi CarlssonFroster-
+               ud, som påminner om den tyske avlidne
+               socialdemokraten och rikskansleren Miiller-Franken,
+               där Franken dock blott angav valkretsen, eller Nobelpristagaren
+               österrikaren Wagner von Jauregg, där
+               de två sista orden äro att jämföra med i Blädinge
+               (för Per Olsson i B.). Stundom ha båda i förening
+               skapat tyska familjenamn.</p>
+            <p>Herr Lindhagen motionerade under 1931 års riksdag
+               om vissa statliga besparingar. Därpå följde ett
+               kåseri i St.-T.-D. (22/3 31):</p>
+            <p><quote>"Här har Lindhagen visat litet sinne för funkis, men
+               varför inte ta steget fullt ut? Varför uttala alla de många</quote></p><pb n="63"/>
+         </div>
+         <div>
+            <p><quote>långa namnen? Olsson i Kullenbergstorp exempelvis kräver
+               av en normal talare minst z sekunder, och även i övrigt
+               är det minsann inte många som heta så hastigt som Flyg.
+               Tid är pengar, och bara på bokstaven J. finna vi - enbart
+               i andra kammaren - en betydande nationalförlust i I
+               form av Jansson i Edsbäcken, Johansson i Huskvarna, I:
+               Johansson i Hallagården, J ohanson i Stockholm, J ohanson
+               i Uppmälby, J ohanson i Sollefteå, Johansson i Fårekulla,
+               Johansson i Brånalt, Johansson i Edsbyn, Johansson i
+               Väby, Johansson i Krogstorp, J ohnsson i N orrahammar,
+               Jonsson i Risinge, Jonsson i Eskilstuna och Jönsson i
+               Revinge. Ha vi råd med Peterson i Lerbäcksbyn? Vad
+               säga riksdagens revisorer om Svensson i det svåruttalade
+               Högsjöhult ?"</quote></p>
+            <p>Redan tidigt hade man insett "nationalförlusten"
+               och också vidtagit mått och steg att minska den.
+               Emellertid är det tveksamt, när man började reducera
+               så långa namn. Av det skälet att man i bondeståndet
+               sade "A. Jonsson i Jönköpings län" skulle möjligen
+               reduktionen ej ha inträffat där. Det tidigaste
+               belägget på att typen Peterson i Påboda blev
+               endast Påboda är från I867. Karl XV skall då till
+               Rosenberg i Lantmannapartiet enligt dennes egna
+               brev (1883) och memoarer (1892) ha yttrat: "Jag
+               tror, att fan har farit i Tullus", varmed avsågs Nils
+               Larsson i Tullus. Det faktum, att Rosenberg själv
+               omnämnt saken i ett privatbrev tio år, innan memoarerna
+               nedskrevos, talar för sanningsenligheten. I
+               varje fall är seden i fullt bruk år 1877, då C. A.
+               Larsson i Maspelösa skriver i brev:</p>
+            <p>"Till vår konferens vill jag föreslå Key, Nordanå, Efve-röd.
+               . . Liss Olle ... " Nordanå fick här representera Ola</p><pb n="64"/>
+         </div>
+         <div>
+            <p>Andersson i Nordanå, och Efveröd Sven Nilsson i Efveröd.
+               - Inom parentes bör Liss Olle (för Liss Olof Larsson)
+               och likaledes Lasse i Wik eller vackre Lars i Wik
+               (för Lars Ersson i Wik) noteras som smeknamn eller
+               öknamn. -</p>
+            <p>Från "vingklippningens" och "det nya systemets" tid ha
+               vi (Persson i) Stallerhult, (Peterson i) Boestad, (Nils
+               Persson i) Vadensjö<note n="1" place="bottom"></note>, (Olsson i) Fläsbro - Fläsbrolinjens
+               upphovsman - och senare (Peterson i) Påboda, (Jönsson
+               i) Revinge, (Olsson i) Ramsta, (Nilsson i) Kabbarp, (Nilsson
+               i) Skottlandshus( !), (Nilsson i) Vibberbo, (Nilsson i)
+               Bonarp, (Olsson i) Tänga, (Persson i) Tällberg, (Andersson
+               i) Knäppinge, (Magnusson i) Tumhult, (Olsson i)
+               Ovanmyra, (J. B. Johansson i) Fredrikslimd( !), (Bengtsson
+               i) N ornp, (Per Olsson i) Blädinge, (Andersson i) Råstock,
+               (Pehrsson i) Bramstorp, (Jansson i) Edsbäcken,
+               (Andersson i) Knapasjö, (Bernhard Eriksson i) Grängesberg,
+               Antnäs, Gränebo, Källeräng, Gasabäck (förr Fjäll<note n="1" place="bottom"></note>),
+               Milsmaden, Kälkebo, Mora (Olson i), ja, t. o. m. stadsnamnen
+               Sölvesborg (Ranson i) och Skövde, Gärda, Frötorp,
+               Kullersta, lgelboda (förr Nacka), Stallargården,
+               Törneryd, Backa (Åbygge), Markaryd, Rösta - vilken
+               senare i ett riksdagsanförande benämndes hr Rösta.</p>
+            <p>Hur dessa namn passa i dagligt tal, framgår av
+               några presscitat :</p>
+            <p><quote>"Blädinge, som han heter i riksdagen, eller P. J.f., som
+               hans benämning i hemorten lär vara" (N. D. A. 6/10 27);
+               "Norup eller Rasjön? Bonarp vice talman?" (St.-T. 13/,</quote></p>
+            <note n="1" place="bottom">Nils Perssons dotter kallades, på grund av att fadern
+               motionerade om skatt på ungkarlar, länge ungkarlsskatten.</note>
+            <note n="2" place="bottom">Dylika förändrade ortsbestämningar kunna förbrylla,
+               såsom när 1935 Olsson i Golvvasta uppropades som "Olsson
+               i Närlinge", Ericson i Oberga som "Ericson i Göberga",
+               o. s. v. Svårare är det då med Lövgren i Nyborg, som
+               säkert kommer att sitta fast länge ännu, ehuru det redan
+               för ett par år sedan bort ändras till Lövgren i Boden.</note>
+            <note>5. ~ Verdandis småskrifter. 373 .</note><pb n="65"/>
+         </div>
+         <div>
+            <p><quote>31); "den hygglige Norup" (A. B. 7/6 30); "Råstock är den
+               rejäla kamraten" (D. N. 7/6 34); "Hövdingen Kälkebo, för
+               att använda Sv. Landsbygdens terminologi" (N. D. A. 8/1
+               29); "Fredrikslund har gott politiskt påbrå" (N. D. A.
+               22/9 27); "och så fick Skövde veta" (Arbetet 1934); "Och
+               då' konsul Wallen menade att språkkunskapen var bra att
+               ha även för bönder, så invände 'Ovanmyra', att ·bönder
+               klarade sina kor och åkerlappar utan franska . . . " (Arbetet
+               19/5 34); "Till sist kom Bengtsson i · Kullen upp ... 'Här blir
+               inget lyckligt land', sade 'Kullen', 'förrän strejkbrytaren
+               blir lagligt skyddad och omhuldad" (Arbetet, jan. 1935).</quote></p>
+            <p>Det måste tilläggas att i referaten dessa namn
+               oftast omges med citationstecken. Som naturligt är,
+               utgå dessa från familjenamn på -son. Undantag äro
+               möjliga: "Vougt snoppade avRotebro" (Arbetet 34),
+               där Rotebro = Lundqvist i Rotebro. Sådana Jall
+               torde vara. sällsynta emellertid.</p>
+            <p>Denna relativt enkla typ är den som har den största
+               spridningen i riksdagen och betraktas ej av ved~rbörande
+               själva som öknamn. Det kräves tvärtom av
+               riksdagsmännen en viss betydenhet eller åtmin;tone
+               Originalitet för att de skola bli kallade på detta sätt.
+               En meddelare uppgiver dessutom, att ortnamnet bör
+               vara egenartat och inte alltför lätt gå tillsammans
+               med tillnamnet. Att även större ortnamn kunna gå
+               in i medvetandet som tillnamn visar Grängesberg för
+               Bernhard Eriksson i Grängesberg, men sedan han
+               flyttade till Falun, skulle han kanske ej ha så lätt att
+               göra sig populär, om han inte hade förnamnet Bernhard
+               att falla tillbaka på.</p>
+            <p>Några politiska ord, avledda av riksdagsmäns</p><pb n="66"/>
+         </div>
+         <div>
+            <p>namn, skola till slut nämnas. Vi ha intet Estrnpiat
+               eller därmed jämförligt ord. Men redan på 1820-
+               talet hade vi Arguseri och under 1890-talet Åkarperi
+               och J onathaneri (efter adv. John Olsson), ett slags
+               tendensnamn, som under senaste skede ökats med
+               grimlunderi (Soc.-D. 1/12 29), höglunderi, kilbomeri
+               (Ny Dag 14/3 31), bramstorp.eri (D. N. april 34):</p>
+            <p><quote>"kohandeln tar speciellt på sin lott och sin kärlighet visar
+               sossar och sovjet och sånt nutida Bramstorperi?"
+               och "Silleneriet [blir kriminaliserat?" D. N. 1/11 34).</quote></p>
+            <p>Även politiska verb av samma slag kunna bildas:
+               "Om en minoritetsregering ständigt - där den icke
+               lindmannar - är beroende av ett annat partis understöd,
+               så är den det i väl så hög grad i en koalition,
+               som utåt har skenet av en majoritet." (G. H . T.
+               15/8 29.) Att minnen från en politikers bana sammanfattas
+               under en namnavledning, såsom t. ex.
+               Bjernaltiana (St.-T. 1 8/7 27), är ju intet märkvärdigt
+               bland allt det andra, som tilldragit sig i "millionhusen",
+               som Helgeandsholmens nutida arkitektur
+               kallades i förväg på slutet av 80-talet. I riksdagen
+               har protesterats "mot röstning på kommando", man
+               har haft "allmänna wälfärdsutskottet" 1867, tillsatt
+               för att avskaffa penningbristen, "ledighetskommitten"
+               på 70-talet och senare för ej i utskott nyttjade
+               parlamentariker, och "ligapojkskommitten" på 90-
+               talet, politisk "omsadling", liksom överhovstallmästare
+               R. Tornerhielms i representationsfrågan på 60-</p><pb n="67"/>
+         </div>
+         <div>
+            <p>talet, och "statsråds viskningar", "Lex Lindhagen",
+               "Lex Weidenhayn", "nådiga luntan" (som jag ej
+               kan erinra mig ha hört förrän under de allra sista
+               åren), "Geddesyxan" 1922, som betydde kommittedöden,
+               eftersom den i Thorssons hand högg nacken
+               av kommitteerna, desamma om vilka Esaias Tegner
+               yttrat: "en institution som icke begår ett misstag
+               förrän efter moget övervägande och icke förhastar
+               sig förrän i sista stund", och i "sammanbindningsbanan"
+               <note n="1" place="bottom"></note> har förts mycken "korridorpolitik", men den
+               största framgången i politisk broslagning har betecknande
+               nog skett vid bridge-partier. Sådana ha nämligen
+               arrangerats över partigränserna och ingalunda
+               haft särskild hemortsrätt inom de mera enfärgade
+               sällskapen, såsom den traditionsrika frisinnade klubben
+               och den färskare högerorganisationen Brnnkebergsklubben.
+               I dessa har diskussionen varit huvudsaken,
+               stundom med ett hopp att framkalla "systemskifte".</p>
+            <note n="1" place="bottom">Förbindelsen mellan första och andra kammaren i riksdagshuset.
+               Egentligen Nils Ericsons namn på statsbanesträckan
+               Hallsberg-Örebro-Krylpo år 1861.</note><pb n="68"/>
+         </div>
+         <div>
+            <head>LITTERATUR.</head>
+            <p>Ahnlund, N., Herredagsfolk och riksdagsmän. N. D. A.
+               12/1 34.<lb/>
+               Berg, R. G:son, Arets Valspråk. Nordisk Tidskrift 1899.<lb/>
+               Carleson, C. N., Slagords och termers livslängd. D. N.
+               8/6 1927.<lb/>
+               Elovson, H., Samuel Johnson, Goethe och patriotismen, Vet.
+               Soc. Lund, Arsbok 1926.<lb/>
+               Granfelt, H., Världskrigets slagord. Sv. D. 7/8 18.<lb/>
+               Hellquist, E., Om namn och titlar, slagord och svordomar.
+               Lund 1918.<lb/>
+               Karlgren A., Bolsjevismen som språkrevolutionär. D. N.
+               5/7, 15/1, 19/7 28.<lb/>
+               Langenfelt, G., Apropå den senaste språkrensningen. Tiden
+               1917.<lb/>
+               - Det politiska språket. Soc.-D. julnummer 1920.<lb/>
+               - Parlamentariska namn och öknamn. Tiden 1922.<lb/>
+               - Patriotism and Scoundrels. Neophilologus 1931.<lb/>
+               - öknamn i politiken. D. N. 21/1 1935·<lb/>
+               Langlet, V., Bevingade ord.<lb/>
+               Noreen, E., Unghinkar och andra hinkar. D. N. 2/9 29.<lb/>
+               Oljelund, /., Till frasens psykologi. Tiden 1919.<lb/>
+               Santesson, C., Historiskt verklighetsstoff i Atterboms hyperboreiska
+               republik. Samlaren 1929.<lb/>
+               Sköld, H., Klasskampen i språket. Signalen, julnummer
+               14/12 1916.<lb/>
+               S pectator, Andra Kammarens män 1897-99· Stockholm
+               1899.<lb/>
+               Ström, Fredr., Hur namnet arbetarkommun kom till.
+               Soc.-D. 4/12 30.<lb/>
+               Thermamius, E., Lantmannapartiet 1928.
+               - Svensk Bondepolitik. 1931.</p><pb n="69"/>
+         </div>
+         <div>
+            <head>REGISTER.</head>
+            <p>Aaby 58<lb/>
+               Adlcrcreutzka gruppen 12<lb/>
+               Adlersparrepartiet 12<lb/>
+               1809 års män 12, 14<lb/>
+               Aftonbladister 32, 33<lb/>
+               aktionister 32<lb/>
+               aktivister 31, 32<lb/>
+               akvavister 34<lb/>
+               Albinister 38<lb/>
+               Alinare 24<lb/>
+               alkemister 18<lb/>
+               Allehandister 32<lb/>
+               Allmänna Valmansförbundet 23, 29<lb/>
+               Allmänna Wälfärdsutskottet 67<lb/>
+               Altarhingsten 60<lb/>
+               amerikanska namn 50<lb/>
+               Amiralen 55<lb/>
+               anarkister 14<lb/>
+               Anjalaförbundet 11<lb/>
+               annexionister 32<lb/>
+               antiparlamentarister 32<lb/>
+               antiproportionalister 30<lb/>
+               Antnäs 65<lb/>
+               Antnäsam 62<lb/>
+               appellister 33, 34<lb/>
+               arbetarbödlar 36<lb/>
+               arbetarförrädare 36<lb/>
+               arbetarpartiet 25, 39<lb/>
+               arbetarrörelsen 13<lb/>
+               arbetsklassen 25<lb/>
+               arguseri 67<lb/>
+               arier 45<lb/>
+               arierfrontare 45<lb/>
+               aristokrater 13, 14, 15<lb/>
+               Arvid Achates 57<lb/>
+               asaläsare 45<lb/>
+               auktionister 32<lb/>
+               avfällingar 8<lb/>
+               Backa 65<lb/>
+               bagler 4, 7<lb/>
+               Bergmanianer 33<lb/>
+               bergsprängningen 29<lb/>
+               Bernhard 66<lb/>
+               birkebeinare 4, 7<lb/>
+               Bismarckianare 33<lb/>
+               Bjemalten 62<lb/>
+               Bjemaltiana 67<lb/>
+               Björckska partiet 16<lb/>
+               blackleg 37<lb/>
+               Blodtörstelund 6o<lb/>
+               blåskjortor 44<lb/>
+               Blädinge 63, 65<lb/>
+               Boestad 61, 65<lb/>
+               bolagsväldet 24<lb/>
+               bolsjeviker 4, 35<lb/>
+               bolsjevister 35<lb/>
+               bolsterviker 37<lb/>
+               Bonarp 65<lb/>
+               bondeförbundare 40, 41<lb/>
+               Bondeförbundet 41<lb/>
+               Bondekonungen 8<lb/>
+               Bondeska diskussionsklubben 28<lb/>
+               Bondeståndets<lb/>
+               Stormklocka 55<lb/>
+               bondetågare 3l<lb/>
+               bondplågare 24<lb/>
+               Bonsoirism 31<lb/>
+               borgaradeln 23<lb/>
+               borgarklumpen 24<lb/>
+               borgerliga 4, 25, 29<lb/>
+               borgerlig samling 39<lb/>
+               borgerlig vänster 29<lb/>
+               borgfred 31<lb/>
+               borggårdare 31<lb/>
+               borggårdsregeringen 31<lb/>
+               borgmästarpartiet 24<lb/>
+               boskapsfösare 27<lb/>
+               Boven 6o<lb/>
+               Br. 59<lb/>
+               Bramstorp 65<lb/>
+               Bramstorpare 41<lb/>
+               Bramstorperi 67<lb/>
+               Brantingianer 33<lb/>
+               Brantings garde 36<lb/>
+               Braständaren 56<lb/>
+               Bratthulinare 34<lb/>
+               Bratthulinien 34<lb/>
+               Brattianism 34<lb/>
+               bridge-partier 68<lb/>
+               Brolinare 45<lb/>
+               broslagning 68<lb/>
+               Brunkebergsklubben 68<lb/>
+               brunskjortor 44<lb/>
+               brytarorganisatörer 37<lb/>
+               brytarvärvare 37<lb/>
+            </p><pb n="70"/>
+         </div>
+         <div>
+            <p>Brånaltaren 62<lb/>
+               Brånalt(-en) 64<lb/>
+               bukoxar 26<lb/>
+               byråkrater 18<lb/>
+               byrå- och plutokratien 17, 19<lb/>
+               Båtström 53<lb/>
+               Carlströmare 40<lb/>
+               centern 19, 24, 41<lb/>
+               centralister 32<lb/>
+               Cirkus Sjuman 38<lb/>
+               conservatifve nollor 16<lb/>
+               Curre 56<lb/>
+               Dagens Nyhister 32<lb/>
+               De Ja Gardies parti 13<lb/>
+               Delagardister 13<lb/>
+               demokrater 15, 21<lb/>
+               Die~hards 24<lb/>
+               Digernäs 63<lb/>
+               Digernäsaren 62, 63<lb/>
+               diligensen 20<lb/>
+               Dubbeldaniel 55<lb/>
+               D. Y. G.-ister 32<lb/>
+               Edsbäcken 65<lb/>
+               Efveröd 64<lb/>
+               Ekmansdricka 40<lb/>
+               Ekmänner 40<lb/>
+               Ekströmare 45<lb/>
+               Engbergare 38<lb/>
+               engelska namn 50, 51<lb/>
+               entente-aktivister 32<lb/>
+               ententister 31, 32<lb/>
+               Entreprenören den<lb/>
+               store 42<lb/>
+               Eskilstunarörelsen 38<lb/>
+               expansionister 32<lb/>
+               Fabian 58<lb/>
+               "Farbror" 55<lb/>
+               fariseer 4<lb/>
+               fascister 44<lb/>
+               Father of the<lb/>
+               House 47<lb/>
+               femtioöringar 27<lb/>
+               finnkolix 7<lb/>
+               Fjällräven 6o<lb/>
+               flaggagrarer 18<lb/>
+               Fläsbro 65<lb/>
+               Fläsbrolinjen 65<lb/>
+               folkfrisinnade 39, 40<lb/>
+               folkförbundare 31<lb/>
+               folkpartier 23, 40<lb/>
+               folkriksdagar 26<lb/>
+               folkvilja 25<lb/>
+               folkvälde 25<lb/>
+               Fordare 34<lb/>
+               forntida regentnamn 7, 8<lb/>
+               fosterländska 22<lb/>
+               Fosterländska förbundet 22<lb/>
+               fosterländska grisar 22<lb/>
+               fosterländska mjölpatroner 18<lb/>
+               framstegspartier 13<lb/>
+               framtidsmän 12<lb/>
+               franska namn 49, 61<lb/>
+               frasradikaler 20<lb/>
+               Fredrikslund 65, 66<lb/>
+               Fredrikslundaren 62<lb/>
+               freds-aktivister 32<lb/>
+               fredskapuner 19<lb/>
+               frifräsare 26<lb/>
+               frihandelscentern 22<lb/>
+               frihandels fantaster 22<lb/>
+               frihandelsvänliga centern 22<lb/>
+               frihandlare 21<lb/>
+               frikaplaner 27<lb/>
+               frikyrkomicklar 26<lb/>
+               frimicklar 26<lb/>
+               frisinnad 16, 27, 29<lb/>
+               frisinnade Carlströmare 40<lb/>
+               Frisinnade klubben 68<lb/>
+               Frisinnade landsföreningen 23<lb/>
+               frisinnig 16<lb/>
+               Frosternd 63<lb/>
+               Frötorp 65<lb/>
+               fullmåttkroppsprincipen 5<lb/>
+               Furugårdare 45<lb/>
+               Furugårdaren 44<lb/>
+               furugårdsindianer 44<lb/>
+               fyrhjuliga riksvagnen 15<lb/>
+               försvaret främst 30<lb/>
+               försvarsknappen 30<lb/>
+               försvarsnihilister 21, 31<lb/>
+               förtalet främst 30<lb/>
+               gammaldemokrater 33<lb/>
+               garpar 7<lb/>
+               Gasabäck 65<lb/>
+               Geddes-yxan 68<lb/>
+               Generalen 55<lb/>
+               ghibelliner 4<lb/>
+               girondister 4<lb/>
+               Golvvasta 65<lb/>
+               Greiffens klubb 12<lb/>
+               Grimlunderi 67<lb/>
+               Gripenstedtarc 19<lb/>
+               gruppen Bonde 28<lb/>
+               Grå, De 15<lb/>
+               Gråkappan 8<lb/>
+               gråkoltar 9<lb/>
+               Gränebo 65<lb/>
+               Grängcsbcrg 65, 66<lb/>
+               guelfer 4<lb/>
+               gulingar 44<lb/>
+               Gullaboåsaren 19, 62<lb/>
+               gullbyxoma 29<lb/>
+               Gurra i Fyrkanten 8<lb/>
+            </p><pb n="71"/>
+         </div>
+         <div>
+            <p>gustavianer 13, 57<lb/>
+               Gyllenlack 53<lb/>
+               Gärda 65<lb/>
+               Göberga 65<lb/>
+               hakkapelliter 9<lb/>
+               Halfryssland ved
+               Mälaren 24<lb/>
+               hamrinare 40<lb/>
+               hattar 4, IO<lb/>
+               hawaiiska namn 48<lb/>
+               Hediniansk 33<lb/>
+               heimdaliter 33<lb/>
+               hemma-bolsjeviker 37<lb/>
+               hemma-ententister 31<lb/>
+               hemmanorskar 21<lb/>
+               Herman (allas vår) 62<lb/>
+               Herman Klyvare 61<lb/>
+               Herr Mickel 53<lb/>
+               herredag 47<lb/>
+               herredagsman 47<lb/>
+               herremöte 47<lb/>
+               Herrens signade
+               (F-)båt 30<lb/>
+               Hjärneaner 33<lb/>
+               Hjärneiter 33<lb/>
+               Holofernes 53<lb/>
+               hoppande parlamentarism 39<lb/>
+               Hotell Mollberg 16<lb/>
+               hovmarskalks partiet 23<lb/>
+               humanister 35<lb/>
+               Hungerskjöld 6o<lb/>
+               Häckenäsaren 62<lb/>
+               Hängbjörken 6o<lb/>
+               höger 4, 21, 22, 39, 40<lb/>
+               högerimperialister 37<lb/>
+               högermän 21<lb/>
+               högerns kronprins 59<lb/>
+               Höglundare 35, 37, 38<lb/>
+               högluncleri 67<lb/>
+               Hpjre 22<lb/>
+               idealister 21<lb/>
+               lgelboda 65<lb/>
+               indianska namn 49<lb/>
+               intelligensare 4<lb/>
+               intelligensen 20<lb/>
+               isbjörnar 17<lb/>
+               Jacob 53<lb/>
+               jakobiner 4, 12, 14<lb/>
+               Jacobs får 13<lb/>
+               jaherrar 15<lb/>
+               Jens Rigsdagsmand 47<lb/>
+               Jesus vid 12 årsålder i templet 6o<lb/>
+               Jonathaneri 67<lb/>
+               judastjänster 36<lb/>
+               junkrar 15<lb/>
+               jusqu'au-boutister 32<lb/>
+               J ustitiepelle 6o<lb/>
+               jutar 7<lb/>
+               järnsidor 8<lb/>
+               Kabbarp(-en) 62, 65<lb/>
+               kadaverdisciplin 35, 37<lb/>
+               Kalkas 57<lb/>
+               Kalle, Hela Sveriges 6o<lb/>
+               Kalle i Fyrkanten 8<lb/>
+               kamarilla 14<lb/>
+               kannstöpare 27<lb/>
+               kapitalister 26<lb/>
+               kapitalistlakej 37<lb/>
+               Karl Napoleon 58<lb/>
+               Karlshultaren 62<lb/>
+               karolinerna 23<lb/>
+               kavaljerer 8<lb/>
+               kemister 18<lb/>
+               Kilbomare 35, 37<lb/>
+               Kilbomeri 67<lb/>
+               Kilbomiter 35<lb/>
+               Kilbomski 6o<lb/>
+               Killevippbombom 6o<lb/>
+               Killis 56<lb/>
+               Kilströmare 36<lb/>
+               Kjellenare 33<lb/>
+               klassförrädare 36<lb/>
+               klasskamp 24<lb/>
+               klass representanter 46<lb/>
+               Klockor 29<lb/>
+               Knapasjö 65<lb/>
+               Knapptrusten 30<lb/>
+               Knäppinge 65<lb/>
+               kobbeköttare 36<lb/>
+               kobotaren 44<lb/>
+               kohandlare 41<lb/>
+               kolportörsdemagog 20<lb/>
+               komintern 46<lb/>
+               kommittedöden 68<lb/>
+               kommunister 26, 35, 41<lb/>
+               kommunistiska majoritetare 4, 35<lb/>
+               kommunistiska minoritetare 4, 35, 36<lb/>
+               kompositionister 11<lb/>
+               konfedererade 8<lb/>
+               kongressister 32<lb/>
+               konservativa 14, 22<lb/>
+               Konservativa, De 15<lb/>
+               konstitutionella 12, 14<lb/>
+               kontra-revolutionärer 36<lb/>
+               Kornknarren 59<lb/>
+               korridorpolitik 68<lb/>
+               Kreugerproletärer 37<lb/>
+               krigs-aktivister 32<lb/>
+               Krusbärsbjörn 6o<lb/>
+            </p><pb n="72"/>
+         </div>
+         <div>
+            <p>Kullen 66<lb/>
+               Kullenbergaren 62<lb/>
+               Kullenbergstorp 61, 64<lb/>
+               Kullenbergstorpare (-n) 41, 62<lb/>
+               Kullersta 65<lb/>
+               kulturbolsjevism 20<lb/>
+               Kung Bergström 56<lb/>
+               Kvarn 6o<lb/>
+               Kvarstadskungen 56<lb/>
+               Käggelgubben 56<lb/>
+               Kälke bo (Hövdingen) 65, 66<lb/>
+               Källeräng 65<lb/>
+               laboremiter 33<lb/>
+               la Keij 17<lb/>
+               lantmanna- och borgarpartiet 23, 29<lb/>
+               lantmannapartister 18, 23<lb/>
+               lantmannapartisthatare 24<lb/>
+               lantmän 12<lb/>
+               Lars i Wik, vackre 65<lb/>
+               Laxerheim 53<lb/>
+               ledande partiet 14<lb/>
+               ledighetskommitten 67<lb/>
+               legodrängar 26<lb/>
+               lergökar 27<lb/>
+               levebrödspolitiker 5<lb/>
+               Lex Lindhagen 68<lb/>
+               libbar 23<lb/>
+               liberala 12, 14, 15, 16, 29, 31<lb/>
+               liberala försvarsvänner 31<lb/>
+               liberala partiet 14<lb/>
+               Liberala Samlingspartiet 23<lb/>
+               liberalister 14<lb/>
+               ligapojkskommitten 67<lb/>
+               Lindblomiter 45<lb/>
+               Lindholmare 45<lb/>
+               lindmanna 67<lb/>
+               linkopensiska högerfrihandlare 22<lb/>
+               Liss Olle 64<lb/>
+               livskänslan, den nya 6<lb/>
+               Ljunggrenianer 39<lb/>
+               Ljunglundare 34<lb/>
+               Ljusets bonde 55<lb/>
+               Lukas 59<lb/>
+               luntmakare 37<lb/>
+               Lyktklubben 12<lb/>
+               löss i den röda fanans veck 26<lb/>
+               Lövgren i Nyborg 65<lb/>
+               Macleanska klubben 13<lb/>
+               Maggan 58<lb/>
+               magsyrister 34<lb/>
+               majoritetare 35<lb/>
+               majoritetspartiet 23<lb/>
+               majriksdagsmän 28<lb/>
+               Mannerheimare 12, 15<lb/>
+               Mannerheimianer 12<lb/>
+               Mannerheimister 12<lb/>
+               Mannerheimska klubben 12<lb/>
+               Mannerskielm 53<lb/>
+               Markaryd 65<lb/>
+               marxister 45<lb/>
+               massan, den enda reaktionära 24<lb/>
+               Mechelborgh 7<lb/>
+               v. Melstedare 33<lb/>
+               mensjeviker 4, 35<lb/>
+               Mestertonare 37<lb/>
+               metalloxar 37<lb/>
+               Meyerhöffare 45<lb/>
+               militärpromenad 24<lb/>
+               Millimeternich 6o<lb/>
+               millionhusen 67<lb/>
+               Milsmaden 65<lb/>
+               ministerens kompass 54<lb/>
+               ministärer, den bästa av 17<lb/>
+               ministeriella 12, 14, 20<lb/>
+               Ministerslukaren 6o<lb/>
+               ministersocialism 29<lb/>
+               minoritetare 35<lb/>
+               moderat 21, 23, 29<lb/>
+               moderatister 34<lb/>
+               moderatliberal 15, 28<lb/>
+               Moltigius 56<lb/>
+               mondister 36<lb/>
+               Mora 65<lb/>
+               moralen, den nya 6<lb/>
+               Morbror Knut 54<lb/>
+               morgonbladensare 40<lb/>
+               moskoviter 37<lb/>
+               moskvaträlar 37<lb/>
+               Mr. G.8<lb/>
+               munkorgslagen 28<lb/>
+               Murenare 16, 19<lb/>
+               mussar 44<lb/>
+               Mårten Holk 54<lb/>
+               Mäster Palm 26, 34<lb/>
+               mörkaste Småland 42<lb/>
+               mössor 4, 10<lb/>
+               nassar 44, 45<lb/>
+               nationalister 22<lb/>
+               nationalsocialister 41, 45, 46<lb/>
+               nationella 22<lb/>
+               Nationella partiet 23<lb/>
+               Nationella Ungdomsförbundet 23, 46<lb/>
+               nattmössor 10<lb/>
+               nazi 43, 45<lb/>
+            </p><pb n="73"/>
+         </div>
+         <div>
+            <p>nazister 45<lb/>
+               Nedre kammaren 19<lb/>
+               N ermänner 35<lb/>
+               neutralister 8, 31, 32<lb/>
+               Nordanå 64<lb/>
+               norrbaggar 7<lb/>
+               norrlandsfrisinne 38<lb/>
+               norskätare 24<lb/>
+               Norup 65, 66<lb/>
+               Noskesocialister 36<lb/>
+               nya plåtslagarsamhället 21<lb/>
+               nykterhetssvärmare 17<lb/>
+               nykterhetsvänner 21<lb/>
+               Nyliberala partiet 20<lb/>
+               nyttopolitiker 46<lb/>
+               nådiga luntan 68<lb/>
+               Närlinge 65<lb/>
+               Nässjö-centern 40<lb/>
+               Nötknäpparen 54<lb/>
+               Oberga 65<lb/>
+               obskuranter 14<lb/>
+               o:a Månsare 17<lb/>
+               Oljelundare 34<lb/>
+               Omsadling 67<lb/>
+               Oppositionens fader 54<lb/>
+               Ovanmyra 65, 66<lb/>
+               oxar 37. 44<lb/>
+               oxkommunister 37<lb/>
+               oxmicklar 26<lb/>
+               P* 6o<lb/>
+               P. M. 65<lb/>
+               pacifister 32<lb/>
+               pacifist-fascister 36<lb/>
+               Palmstiernas klubb 35<lb/>
+               pangermanister 32<lb/>
+               pansarbåtsinsamlingen 30<lb/>
+               parlamentarism 15<lb/>
+               parlamentsleda 4, 6<lb/>
+               partifördärvaren 38<lb/>
+               patentpatrioter 24<lb/>
+               patentpatriotiska<lb/>
+               vettvillingar 24<lb/>
+               patentreformister 36<lb/>
+               patricier 4<lb/>
+               patrioter 9, IO, 12, 14<lb/>
+               Per Albin 58<lb/>
+               Phoenix-partiet 20<lb/>
+               planhushållning 46<lb/>
+               plank bärargeneraler 37<lb/>
+               plebejer 4<lb/>
+               plåtslagarsamhället, nya 21<lb/>
+               politiska kronvrak 31<lb/>
+               politisk väderkvarn 30<lb/>
+               Porslinsherdinnan 6o<lb/>
+               Pratenberg 53<lb/>
+               professorsbönder 41<lb/>
+               professorsliberaler, -ism 38<lb/>
+               progressister 13<lb/>
+               proletärer 25<lb/>
+               protektionister 21<lb/>
+               P-stierna 6o<lb/>
+               Puckelstolpe 53<lb/>
+               punschpatrioter 24<lb/>
+               pytsåkare 44<lb/>
+               Påboda 65<lb/>
+               rabulister 14, 17, 21<lb/>
+               radikaler 14, 16, 29<lb/>
+               Rajccal 17<lb/>
+               Ramsta 65<lb/>
+               Rasjön 65<lb/>
+               reaktionär 14<lb/>
+               realism 6<lb/>
+               Reformsällskapet 16<lb/>
+               reformvänner 16<lb/>
+               Regeringsadjunkten 59<lb/>
+               renegater 36<lb/>
+               Repeteruret 55<lb/>
+               Revinge 58, 65<lb/>
+               revisionister 36<lb/>
+               revolutionsfår 17<lb/>
+               revolutionsgymnastik 36<lb/>
+               riksdag 47<lb/>
+               Riksdagamas Torslow 54<lb/>
+               Riksdagens mest snabbtungade talare 56<lb/>
+               riksdagsfarbröder 47<lb/>
+               riksdagsman 5, 47<lb/>
+               riksdassman 47<lb/>
+               rikshushållaren, den store 56<lb/>
+               riksledaren 44<lb/>
+               rixdaxgubbar 47<lb/>
+               Robinsson 6o<lb/>
+               rojalister 12<lb/>
+               Rosenbergs parti 17<lb/>
+               Rotebro 66<lb/>
+               Rual 57<lb/>
+               Rundbäckare 18<lb/>
+               Rundbäckianer 18<lb/>
+               rundhuvuden 8<lb/>
+               Runtorparen 62<lb/>
+               Ruuthianer 13<lb/>
+               Ryssbyarn 62<lb/>
+               Råstock 65, 66<lb/>
+               röda 26, 44<lb/>
+               röda frontare 45<lb/>
+               Röde Greven 58<lb/>
+               rödgardister 37<lb/>
+               rödskjortor 44<lb/>
+               rörelsemän 12<lb/>
+               rörelsen 13<lb/>
+               Rösta 65<lb/>
+               saduceer 4<lb/>
+               sakligheten, den nya 6<lb/>
+            </p><pb n="74"/>
+         </div>
+         <div>
+            <p>salongsbolsjeviker 20<lb/>
+               salongskommunister 20<lb/>
+               salongsliberaler 20<lb/>
+               salongssocialister 20<lb/>
+               samförståndsschakaler 37<lb/>
+               samhällsbevarande 21<lb/>
+               samhällsomstörtare 21<lb/>
+               sammanbindningsbanan 68<lb/>
+               sammanslagningen 18<lb/>
+               sammansmältarna 18<lb/>
+               sammansmältningspartiet 18<lb/>
+               Saxonian 33<lb/>
+               Segerstedten 62<lb/>
+               Sillenare 35<lb/>
+               Silleneri 67<lb/>
+               Sillsallaten 24<lb/>
+               Silverpuckeln 54<lb/>
+               Silvertrumpeten 59<lb/>
+               Simlångsdalen 61<lb/>
+               Skottlandshus 65<lb/>
+               skränradikal 21<lb/>
+               skubbare 44<lb/>
+               Skumpen 55<lb/>
+               Skålandrare 34<lb/>
+               Skånehegemonien 19<lb/>
+               skånska grevarna 13<lb/>
+               skånska partiet 13<lb/>
+               Skövde 65, 66<lb/>
+               Slammerström 53<lb/>
+               slyngelpolitiker 27<lb/>
+               Smålands ryttare 42<lb/>
+               småmordsteorier 26<lb/>
+               snigelvägen, den parlamentariska 5<lb/>
+               S. N. S. A. P. 46<lb/>
+               S. N. U. o. N. F. 46<lb/>
+               snuare 45<lb/>
+               snuonfare 46<lb/>
+               Sociala skräphögen
+               35<lb/>
+               socialdemokrater 4, 15, 25, 29, 39, 40<lb/>
+               Socialdemokratiska ungdomsförbundet 29<lb/>
+               socialförrädare 36<lb/><lb/>
+               socialisering 46<lb/>
+               socialister 25, 31<lb/>
+               socialistbuse 25<lb/>
+               socialistisk 26<lb/>
+               socialistlymmel 30<lb/>
+               socialistätare 24<lb/>
+               socialmondister 36<lb/>
+               socialpatrioter 36<lb/>
+               Solnaoxar 37<lb/>
+               Sommelianer 45<lb/>
+               sossar 23, 67<lb/>
+               Sozis 43<lb/>
+               sovjetmän 37<lb/>
+               spannmålstönnra 18<lb/>
+               spartakister 35<lb/>
+               Spikjesus 59<lb/>
+               spritliberaler 38<lb/>
+               sprängkandidater 27<lb/>
+               St. Göran 53<lb/>
+               Staaff-docka 30<lb/>
+               Staaffianer 31<lb/>
+               Stallargården 65<lb/>
+               Stallerhult 65<lb/>
+               Starbäckare 31<lb/>
+               Starke Arvid 57<lb/>
+               statsrådsviskningar 68<lb/>
+               Stendahlare 34<lb/>
+               Stockholms-Dagbladshögern 22<lb/>
+               stockkonservativ 20<lb/>
+               Stormklockan 29, 55<lb/>
+               Stormklockefalangen 29<lb/>
+               Stormklockor 29<lb/>
+               Stormsvalan 61<lb/>
+               storstadsradikalism 21<lb/>
+               storsvenskar 24<lb/>
+               stridstuppar 19<lb/>
+               Strömbomare 35<lb/>
+               Strömmen 62<lb/>
+               Stugornas folk 57<lb/>
+               stövelknektar 44<lb/>
+               svansen som styr 39<lb/>
+               svartfötter 37, 44<lb/>
+               svartskjortor 44<lb/>
+               Svenska Botten 12<lb/>
+               Svensk-Lösenpojkar 33<lb/>
+               Sveriges störste politiske vinglare 56<lb/>
+               systemskifte 68<lb/>
+               såtillvister 32<lb/>
+               Sölvesborg 65<lb/>
+               Tennsoldaten 56<lb/>
+               then litsla man 52<lb/>
+               Tinnerholm 27<lb/>
+               tjuvsamhället 26<lb/>
+               tobaksklubbar 16<lb/>
+               tories 4, 8<lb/>
+               Tranmaeliter 33<lb/>
+               Trädgårdshägern 59<lb/>
+               träskvandrare 37<lb/>
+               Tullman 57<lb/>
+               tullpartiet 22<lb/>
+               Tullus 64<lb/>
+               Tumhult 65<lb/>
+               Tummen 57<lb/>
+               tuschstrecket 39<lb/>
+               tuvhoppning 39<lb/>
+               tyranner 31, 41<lb/>
+               tysk-aktivister 32<lb/>
+               Tånga 65<lb/>
+               Tällberg 65<lb/>
+               Tällbergaren 62, 63<lb/>
+               Törneryd 65<lb/>
+               ugglebo, det kommunala fyrkväldets 5<lb/>
+            </p><pb n="75"/>
+         </div>
+         <div>
+            <p>ultrahögerherrar 45<lb/>
+               ultras 14<lb/>
+               ungdemokrater 38<lb/>
+               unghinkar 26<lb/>
+               unghöger 31<lb/>
+               ungsocialister 26<lb/>
+               uppviglare 21<lb/>
+               Vadensjö 65<lb/>
+               Vaktgubben 53<lb/>
+               valboskap 27<lb/>
+               Vallgubben 53<lb/>
+               varningsord 30<lb/>
+               Vatikanen 37<lb/>
+               Ve'gurra 8<lb/>
+               Ve'gustav 8<lb/>
+               verdandister 32<lb/>
+               Vi 35<lb/>
+               Vibberbo 65<lb/>
+               vildar 22, 24<lb/>
+               vingelpolitiker 27<lb/>
+               vingklippningen 28, 65<lb/>
+               vitgardister 42<lb/>
+               Vägmästaren 57<lb/>
+               vägmästarpartiet 39<lb/>
+               vågmästeri 40<lb/>
+               vårdkasar 31<lb/>
+               väderhattsministär 28<lb/>
+               vänster 4, 29, 39<lb/>
+               vänstermän 21<lb/>
+               vänstersocialister 29, 35<lb/>
+               Värestorparen 62<lb/>
+               Wallenbergare 19, 22<lb/>
+               Wessenare 34<lb/>
+               whigs 4, 8<lb/>
+               Wigforssen 62<lb/>
+               yrkespolitiker S<lb/>
+               Zeta 61<lb/>
+               zetiansk 33<lb/>
+               Zimmerwaldare 29<lb/>
+               Zimmerwaldensare 29<lb/>
+               Zörgieblar 37<lb/>
+               Akarpare 28<lb/>
+               Akarperi 28, 67<lb/>
+               Akarpslagen 28<lb/>
+               älderspresident 47<lb/>
+               Angköks-Olle 6o<lb/>
+               Ädelman 53<lb/>
+               Ärlig Svensk Il<lb/>
+               ömkansvärd 53<lb/>
+               Östgötapartiet 17<lb/>
+               Östgötha rackare 17<lb/>
+            </p><pb n="76"/>
+         </div>
+         <div>
+            <head>TILLÄGG.</head>
+            <p>S. 4. Enligt andra uppgifter existerade en Augustiorden,
+               eller "Augustibröderna", 1772.<lb/>
+               S. 6. Jämför även medeltidens hättebröder och
+               f etaliebröder.<lb/>
+               S. IO. Jämför det medeltida lagstadgandet:
+               "Gånge hatt till och huva ifrån."<lb/>
+               S. 23. "Konservativ Ungdom", en högerorganisation,
+               finnes dock.<lb/>
+               S. 26. "Frifräsarn" är namnet på en radikal
+               "skandaltidning" redan i Gustaf af Geijerstams studentroman
+               Erik Grane (1885 ).<lb/>
+               S. 58. Värner Rydens förnamn uttalades ofta
+               smeknamnsvis på skånska Varnor.<lb/>
+               S. 63. Jämte Brånaltaren ofta Brånalten. - Jämför
+               även familjenamnet Norup.<lb/>
+               S. 65, not 2. Känd är också förändringen Andersson
+               i Nöbbelöv, senare: i Skivarp.<lb/>
+               S. 66. Jämför även:</p>
+            <p><quote>"På talmanspodiet vid Bernhards sida,
+               där nutid ryter eller ödmjukt bockar,
+               man ser nu Tumhults mörka Värendslockar,
+               varunder tunga tankar planer smida."
+               (D. N. 1935.)</quote></p>
+            <p><quote>"Vill bondeförbundet ha bort den sympatiske Gränebo
+               från politiken?" (Arbetet 1935.)</quote></p>
+            <p>S. 68, not I. Även bansträckan Stockholms Södra
+               -Stockholms Central kallades på 60-talet "sammanbindningsbanan".</p>
+            <note>Verdandis småskrifter. 373.</note><pb n="77"/>
+         </div>
+      </body>
+  </text>
+</TEI>
