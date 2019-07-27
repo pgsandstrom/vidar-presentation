@@ -22,9 +22,10 @@ export default () => {
         1700-talet fram tills 1930-talet. Studentföreningen{' '}
         <a href="https://sv.wikipedia.org/wiki/F%C3%B6reningen_Verdandi">Verdandi</a> i Uppsala
         grundades 1882 och utgav 1888-1954 en serie småskrifter som blev en viktig kanal för
-        folkbildning i Sverige. Delar av Verdandis skrifter finns bevarade på Sveriges olika
-        bibliotek och <a href="http://runeberg.org/tema/verdandi.html">projekt Runeberg</a> arbetar
-        med att digitalisera hela serien. Detta projekt är ett led i detta digitaliseringsprojekt.
+        folkbildning i Sverige. Delar av Verdandis skrifter finns bevarade på{' '}
+        <a href="https://libris.kb.se/bib/741060">Sveriges olika bibliotek</a> och{' '}
+        <a href="http://runeberg.org/tema/verdandi.html">projekt Runeberg</a> arbetar med att
+        digitalisera hela serien. Detta projekt är ett led i detta digitaliseringsprojekt.
       </Typography>
 
       <Typography variant="body1" gutterBottom={true} style={{ paddingTop: '10px' }}>

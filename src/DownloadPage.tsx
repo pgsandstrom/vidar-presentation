@@ -11,7 +11,7 @@ export default () => {
       </div>
 
       <div style={{ paddingTop: '20px' }}>
-        <a href="/download/Namn och öknamn - TIFF.zip">Alla orginalbilder i TIFF format</a>
+        <a href="/download/Namn och öknamn - TIFF.zip">Alla originalbilder i TIFF format</a>
       </div>
 
       <div style={{ paddingTop: '20px' }}>
