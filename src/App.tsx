@@ -38,7 +38,7 @@ const StyledToolbarContent = styled.div`
     margin-bottom: 10px;
   }
 
-  > div {
+  > .button-row {
     display: flex;
     justify-content: center;
 
@@ -49,6 +49,8 @@ const StyledToolbarContent = styled.div`
 `
 
 export default () => {
+  const isOldBrowser = !!(window as any).MSInputMethodContext && !!(document as any).documentMode
+
   return (
     <StyledDiv>
       <AppBar position="static">
@@ -59,7 +61,7 @@ export default () => {
                 Startsida
               </Button>
             </Link>
-            <div>
+            <div className="button-row">
               <Link to="/images">
                 <Button color="secondary" variant="outlined">
                   Boken
@@ -76,6 +78,15 @@ export default () => {
                 </Button>
               </Link>
             </div>
+            {isOldBrowser && (
+              <div>
+                Varning! Du använder en gammal webbläsare! För bästa läsupplevelse ladda ner en
+                modern webbläsare såsom{' '}
+                <a href="https://www.mozilla.org/sv-SE/firefox/new/">Firefox</a> eller{' '}
+                <a href="https://www.google.se/chrome/index.html">Chrome</a> och använd den
+                istället.
+              </div>
+            )}
           </StyledToolbarContent>
         </Toolbar>
       </AppBar>
