@@ -35,7 +35,7 @@ export default () => {
 
       <img
         src="/img/bakgrund1.jpg"
-        style={{ display: 'block', margin: '0 auto', paddingTop: '20px' }}
+        style={{ display: 'block', margin: '0 auto', paddingTop: '20px', width: '100%' }}
       />
     </StyledDiv>
   )

@@ -17,7 +17,7 @@ const StyledDiv = styled.div`
     background: white;
     //background-image: url(/img/bakgrund2.jpg);
     //background-size: cover;
-    width: 1280px;
+    max-width: 1280px;
     margin: 20px auto;
     padding: 40px;
   }

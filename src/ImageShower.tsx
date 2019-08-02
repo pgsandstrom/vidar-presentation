@@ -38,9 +38,6 @@ export default (props: Props) => {
   return (
     <StyledDiv>
       <div className="header">
-        {/*<div style={{ width: '200px' }}>*/}
-        {/*  <Link to="/">Huvudsida</Link>*/}
-        {/*</div>*/}
         <div style={{ width: '200px' }}>
           {gotPrevPage && (
             <Link to={`/images/${page - 1}`} style={{ opacity: gotPrevPage ? 1 : 0 }}>
